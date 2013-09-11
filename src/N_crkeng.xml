@@ -38,4 +38,204 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+  <e>
+    <lg>
+      <l pos="N">atim</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dog</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">inini</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">man</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">nâpês</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">boy</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">apiscacihkos</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">antelope</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mâyatihk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bighorn sheep</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">atihk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">caribou</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">apisimôsnos</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">deer</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">wâwaskêsniw</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">elk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mistatim</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">horse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">môswa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">moose</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">maskwa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bear</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">okistatowân</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">grizzly bear</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">wâpask</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">polar bear</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sîsîp</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duck</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">môhkomân</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">knife</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sakâw</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">soup</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">mîcimâpo</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">soup</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sîsîpâwi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duck egg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">wâwi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">egg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">iskwêw</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">woman</t>
+      </tg>
+    </mg>
+  </e>
 </r>
