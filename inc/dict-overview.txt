@@ -4,10 +4,10 @@
 1712 (vai)
  967 (na)
  635 (vii)
- 331 (ipc)
+ 331 (ipc)	invariable particle
   70 (vii) or (vai)
   17 (vai) or (vii)
-  17 (ln)
+  17 (ln)cat
   10 (pr)
    6 (ob.) (na)
    5 (ni) or (na)
