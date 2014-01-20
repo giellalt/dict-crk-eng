@@ -1,276 +1,242 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
-
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-  
 <r>
-   <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by UAlberta, Edmonton, Giellatekno at UiT,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
   <e>
     <lg>
-      <l pos="N">atim</l>
+      <l pos="n">atim</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">dog</t>
+        <t pos="n">dog</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">inini</l>
+      <l pos="n">inini</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">man</t>
+        <t pos="n">man</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">nâpês</l>
+      <l pos="n">nâpês</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">boy</t>
+        <t pos="n">boy</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">apiscacihkos</l>
+      <l pos="n">iskwâhtêm</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">antelope</t>
+        <t pos="n">door</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">mâyatihk</l>
+      <l pos="n">apiscacihkos</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">bighorn sheep</t>
+        <t pos="n">antelope</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">atihk</l>
+      <l pos="n">mâyatihk</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">caribou</t>
+        <t pos="n">bighorn sheep</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">apisimôsnos</l>
+      <l pos="n">atihk</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">deer</t>
+        <t pos="n">caribou</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">wâwaskêsniw</l>
+      <l pos="n">apisimôsnos</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">elk</t>
+        <t pos="n">deer</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">mistatim</l>
+      <l pos="n">wâwaskêsniw</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">horse</t>
+        <t pos="n">elk</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">môswa</l>
+      <l pos="n">mistatim</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">moose</t>
+        <t pos="n">horse</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">maskwa</l>
+      <l pos="n">môswa</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">bear</t>
+        <t pos="n">moose</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">okistatowân</l>
+      <l pos="n">maskwa</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">grizzly bear</t>
+        <t pos="n">bear</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">wâpask</l>
+      <l pos="n">okistatowân</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">polar bear</t>
+        <t pos="n">grizzly bear</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">sîsîp</l>
+      <l pos="n">wâpask</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">duck</t>
+        <t pos="n">polar bear</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">môhkomân</l>
+      <l pos="n">sîsîp</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">knife</t>
+        <t pos="n">duck</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">sakâw</l>
+      <l pos="n">môhkomân</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">soup</t>
+        <t pos="n">knife</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">mîcimâpo</l>
+      <l pos="n">sakâw</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">soup</t>
+        <t pos="n">soup</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">sîsîpâwi</l>
+      <l pos="n">mîcimâpo</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">duck egg</t>
+        <t pos="n">soup</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">wâwi</l>
+      <l pos="n">sîsîpâwi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">egg</t>
+        <t pos="n">duck egg</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">iskwêw</l>
+      <l pos="n">wâwi</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">woman</t>
+        <t pos="n">egg</t>
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
-      <l pos="N">iskwêw</l>
+      <l pos="n">iskwêw</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">woman</t>
+        <t pos="n">woman</t>
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
-      <l pos="N">iskwatem</l>
+      <l pos="v">nipâw</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">door</t>
+        <t pos="v">sleep</t>
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
-      <l pos="N">ôskan</l>
+      <l pos="v">wâpam</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">bone</t>
+        <t pos="v">see</t>
       </tg>
     </mg>
   </e>
-
   <e>
     <lg>
-      <l pos="N">wiyâkan</l>
+      <l pos="p">sisone</l>
     </lg>
     <mg>
       <tg>
-        <t pos="N">bowl</t>
+        <t pos="p">beside, along</t>
       </tg>
     </mg>
   </e>
-
 </r>
