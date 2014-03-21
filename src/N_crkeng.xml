@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r xml:lang="smn">
+  
+<r>
 <lics xml:space="preserve">
   <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
    <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -21,7 +22,6 @@
    <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>   
 
-<r>
   <e>
     <lg>
       <l pos="n">atim</l>
