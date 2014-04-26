@@ -4,7 +4,7 @@
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
   
-<r>
+<r xml:lang="crk">
 <lics xml:space="preserve">
   <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
    <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -27,7 +27,7 @@
       <l pos="n">atim</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">dog</t>
       </tg>
     </mg>
@@ -37,7 +37,7 @@
       <l pos="n">inini</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">man</t>
       </tg>
     </mg>
@@ -47,7 +47,7 @@
       <l pos="n">nâpês</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">boy</t>
       </tg>
     </mg>
@@ -57,7 +57,7 @@
       <l pos="n">iskwâhtêm</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">door</t>
       </tg>
     </mg>
@@ -67,7 +67,7 @@
       <l pos="n">apiscacihkos</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">antelope</t>
       </tg>
     </mg>
@@ -77,7 +77,7 @@
       <l pos="n">mâyatihk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">bighorn sheep</t>
       </tg>
     </mg>
@@ -87,7 +87,7 @@
       <l pos="n">atihk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">caribou</t>
       </tg>
     </mg>
@@ -97,7 +97,7 @@
       <l pos="n">apisimôsnos</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">deer</t>
       </tg>
     </mg>
@@ -107,7 +107,7 @@
       <l pos="n">wâwaskêsniw</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">elk</t>
       </tg>
     </mg>
@@ -117,7 +117,7 @@
       <l pos="n">mistatim</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">horse</t>
       </tg>
     </mg>
@@ -127,7 +127,7 @@
       <l pos="n">môswa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">moose</t>
       </tg>
     </mg>
@@ -137,7 +137,7 @@
       <l pos="n">maskwa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">bear</t>
       </tg>
     </mg>
@@ -147,7 +147,7 @@
       <l pos="n">okistatowân</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">grizzly bear</t>
       </tg>
     </mg>
@@ -157,7 +157,7 @@
       <l pos="n">wâpask</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">polar bear</t>
       </tg>
     </mg>
@@ -167,7 +167,7 @@
       <l pos="n">sîsîp</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">duck</t>
       </tg>
     </mg>
@@ -177,7 +177,7 @@
       <l pos="n">môhkomân</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">knife</t>
       </tg>
     </mg>
@@ -187,7 +187,7 @@
       <l pos="n">sakâw</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">soup</t>
       </tg>
     </mg>
@@ -197,7 +197,7 @@
       <l pos="n">mîcimâpo</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">soup</t>
       </tg>
     </mg>
@@ -207,7 +207,7 @@
       <l pos="n">sîsîpâwi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">duck egg</t>
       </tg>
     </mg>
@@ -217,7 +217,7 @@
       <l pos="n">wâwi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">egg</t>
       </tg>
     </mg>
@@ -227,7 +227,7 @@
       <l pos="n">iskwêw</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="n">woman</t>
       </tg>
     </mg>
@@ -237,7 +237,7 @@
       <l pos="v">nipâw</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="v">sleep</t>
       </tg>
     </mg>
@@ -247,7 +247,7 @@
       <l pos="v">wâpam</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="v">see</t>
       </tg>
     </mg>
@@ -257,7 +257,7 @@
       <l pos="p">sisone</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="p">beside, along</t>
       </tg>
     </mg>
