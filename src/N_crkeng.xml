@@ -234,11 +234,1038 @@
   </e>
   <e>
     <lg>
-      <l pos="p">sisone</l>
+      <l pos="n">mîkiwâhp</l>
     </lg>
     <mg>
       <tg xml:lang="eng">
-        <t pos="p">beside, along</t>
+        <t pos="n">home</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">maniway</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">cheek</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîpit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">tooth</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mahkwan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">heel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mispiton</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">arm</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">micihciy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">hand</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mihkwâkan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">face</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">misit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">foot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mistikwân</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">head</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîscakâs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">hair</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîskât</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">leg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mitôn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">mouth</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">miskîsik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">eye</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mikot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">nose</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîhtawakay</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">ear</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîyaw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">body</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">otânisimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">daughter</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">okosisimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">son</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">onîkihikomâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">parent</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">omosômimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">grandfather</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ôhkomimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">grandmother</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nîtisân</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">sibling</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">osîmisimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">younger sibling</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">otôtemimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">friend</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">okâwîmâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">mother</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ohtâwîmâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">father</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">omisimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">older sister</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nikâwis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">mother's sister</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">osisimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">mother's brother</t>
+        <t pos="n">father's sister husband</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ohcâwîsimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">father's brother</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nihciwâmis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">cousin</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ostêsimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">oldest brother</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">niscâs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">cousin in law</t>
+        <t pos="n">brother in law</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nîcimos</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">mother's brother's son</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nicâhkos</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">sister in law</t>
+        <t pos="n">cousin in law</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nôsisim</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">grandchild</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">onâpêmimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">husband</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">niskotâkay</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">jacket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">apisimôsos</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">deer</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">anikwacâs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">squirrel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">asikan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">sock</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">asiniy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">stone</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">cahcahkâyow</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">blackbird</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">oskâtâsk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">carrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sônîyâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">money</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ôhow</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">owl</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sihta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">spruce</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">niska</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">Canada goose</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nehiyaw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">Cree person</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nâpêw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">man</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">kôhkôs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">pig</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">iskwêsis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">girl</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">emihkwân</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">spoon</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">awâsis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">child</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">âmow</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">bee</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">picikwâs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">apple</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">pîsim</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">month</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">sun</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">pahkwesikan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">bannock</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">minôs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">cat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">okimâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">boss</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">wîkimâkan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">spouse</t>
+      </tg>
+    </mg>
+  </e>
+
+
+
+
+
+  <e>
+    <lg>
+      <l pos="n">wâposw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">rabbit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">amisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">beaver</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mistikw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">stick</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">askihkw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">pail</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mahkahkw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">tub</t>
+        <t pos="n">barrel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ihkwa</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">louse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">wâhkw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">shell</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">esa</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">shell</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">kihcôkiniy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">tomato</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">masinahikanâhtik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">pencil</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mostos</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">cow</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">astotin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">hat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">cîmân</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">canoe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîkisasâkay</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">jacket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">oskasâkay</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">new coat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">pahkekinw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">leather</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">askekinw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">rawhide</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mihkw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">blood</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">oskây</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">new thing</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">tehtapiwin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">chair</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sîwinikan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">sugar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">kinosew</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">fish</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mahtâmin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">corn</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">kôhkôsowîyin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">bacon</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">wâwaskesiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">elk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sikâk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">skunk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sihkihp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">boil</t>
+        <t pos="n">carbuncle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">pisiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">cougar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">oskâtâsk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">carrot</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="n">atâwewikamik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">store</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîcisowkamik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">restaurant</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sônîyâwkamik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">bank</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sakâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">bush</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mîcimâpoy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">soup</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sîsîpiwâwi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">duck egg</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">askipwâwi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">potato</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">meskanaw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">road</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ôtênaw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">city</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">maskisin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">shoe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">mistikowat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">box</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">pikiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">gum</t>
       </tg>
     </mg>
   </e>
