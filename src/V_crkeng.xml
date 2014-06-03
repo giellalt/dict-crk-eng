@@ -48,4 +48,689 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V">mâto</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">cry</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">mîciso</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">eat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">waniskâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">get up</t>
+        <t pos="V">rise</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">micisiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">eat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nohtehkatew</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is hungry</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">atoskêw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">work</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">akwahow</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">to cover oneself</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nêhiyawêw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">work</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">pimohte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">walk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">pîkiskwe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">speak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">minihkwe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">drink</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nikamo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">sing</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">masinahike</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">write</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">ayamihcike</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">read</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">kiskinohamâkosi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">learn</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">itamahciho</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">feel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">miyomahciho</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">feel good</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nestosi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is tired</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nohtekate</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is hungry</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nohtekwasi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is sleepy</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">pimisin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">lie down</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">pîhtwâ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">smoke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">ohpî</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">jump</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">api</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">sit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nîpawi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">stand up</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">metawe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">play</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">pâhpi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">laught</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nîmihito</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">dance</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">kîwe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">go home</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">pihtokwe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">enter</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nitohta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">listen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nisitohta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">understand</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">wâpiskisiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it's white</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">kaskitêsiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is black</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">kaskitêwinâkosiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">appear black</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">mihkosiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is red</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">sîpihkosiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is blue</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">askihtakosiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is green</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">wâposâwisiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is yellow</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">osâwisiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is orange</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nîpâmâyâtisiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is purple</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">wâpinâkosiw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">appear white</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">itasinâsw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">what colour is</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">wâsêskwan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is sunny</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">mispon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is snowing</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">yôtin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is windy</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">sôhkiyowêw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is a strong wind</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">sîkipêstâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is pouring</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">kaskaniwipêscâsin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is misth</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">miywâsin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is good</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">mihkwâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">it is red</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">wîcih</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">help</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">mow</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">eat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nôhkwâtew</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">lick</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">ahi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">place NA</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">âhkwatisim</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">freeze NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">akimik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">count NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">âpacih</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">use NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">asam</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">feed NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">asên</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">refuse NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">asênamaw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">return NA to X</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">askowêh</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">follow NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">atoskah</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">hire NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">awih</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">loan NA to X</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">ayâw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">have NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">atoskaw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">work for NA</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nisitohta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">understand</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">nitohta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="V">listen</t>
+      </tg>
+    </mg>
+  </e>
+
+
+
 </r>
