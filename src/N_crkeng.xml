@@ -1029,7 +1029,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">mihkw</l>
+      <l pos="n">mihko</l>
     </lg>
     <mg>
       <tg xml:lang="eng">
@@ -1269,4 +1269,246 @@
       </tg>
     </mg>
   </e>
-</r>
+  <e>
+    <lg>
+      <l pos="n">ôsi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">canoe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">kîkisepâ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">morning</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">wiyâkanis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">bowl</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">iskocês</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">fire</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ôskan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">bone</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">iskotêw</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">fire</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">papeskomina</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">pepper</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">sîwihtâkan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">salt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">maskihkiwâpoy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">tea</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">nipîy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">water</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">tohtôsâpoy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">milk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">wiyâs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">meat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="n">ocenâsis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">town</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">wâskahikan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">house</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">wayasit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">hoof</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">wîkiwin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">home</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">mîkiwâhp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">tipi</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">masinahikan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">book</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">minihkwewîyâkanis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">cup</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">wîyâkan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">dish</t>
+        <t pos="n">plate</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">cîscayisîpwâkanis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">fork</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">tohtôsâpôpimiy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">butter</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">mitîhiy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">shoulderblade</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="n">mitâs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="n">pants</t>
+      </tg>
+    </mg>
+  </e>
+ </r>
+
