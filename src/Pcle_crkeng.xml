@@ -48,7 +48,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">for, from</t>
+        <t pos="pcle">for</t>
+        <t pos="pcle">from</t>
       </tg>
     </mg>
   </e>
@@ -58,7 +59,11 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">furtermore, once again, still, more, some more, again</t>
+        <t pos="pcle">furthermore</t>
+        <t pos="pcle">once again</t>
+        <t pos="pcle">still</t>
+        <t pos="pcle">more</t>
+        <t pos="pcle">again</t>
       </tg>
     </mg>
   </e>
@@ -68,7 +73,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">and, now</t>
+        <t pos="pcle">and</t>
+        <t pos="pcle">now</t>
       </tg>
     </mg>
   </e>
@@ -78,7 +84,9 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">again, another time, once more</t>
+        <t pos="pcle">again</t>
+        <t pos="pcle">another time</t>
+        <t pos="pcle">once more</t>
       </tg>
     </mg>
   </e>
@@ -158,7 +166,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">but, still</t>
+        <t pos="pcle">but</t>
+        <t pos="pcle">still</t>
       </tg>
     </mg>
   </e>
@@ -168,7 +177,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">then, so</t>
+        <t pos="pcle">so</t>
+        <t pos="pcle">then</t>
       </tg>
     </mg>
   </e>
@@ -258,7 +268,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">gee, gosh</t>
+        <t pos="pcle">gee</t>
+        <t pos="pcle">gosh</t>
       </tg>
     </mg>
   </e>
@@ -268,7 +279,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">gee, gosh</t>
+        <t pos="pcle">gee</t>
+        <t pos="pcle">gosh</t>
       </tg>
     </mg>
   </e>
@@ -278,7 +290,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="pcle">it's miracle</t>
+        <t pos="pcle">it's a miracle</t>
       </tg>
     </mg>
   </e>
@@ -344,7 +356,7 @@
   </e>
   <e>
     <lg>
-      <l pos="pcle">ay%ay</l>
+      <l pos="pcle">ay ay</l>
     </lg>
     <mg>
       <tg>
