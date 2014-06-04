@@ -94,7 +94,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">apisimôsnos</l>
+      <l pos="n">apisimôsos</l>
     </lg>
     <mg>
       <tg xml:lang="eng">
@@ -104,7 +104,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">wâwaskêsniw</l>
+      <l pos="n">wâwaskesiw</l>
     </lg>
     <mg>
       <tg xml:lang="eng">
@@ -184,7 +184,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">sîsîpâwi</l>
+      <l pos="n">sîsîpiwâwi</l>
     </lg>
     <mg>
       <tg xml:lang="eng">
@@ -582,16 +582,6 @@
     <mg>
       <tg xml:lang="eng">
         <t pos="n">jacket</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">apisimôsos</l>
-    </lg>
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="n">deer</t>
       </tg>
     </mg>
   </e>
@@ -1009,7 +999,7 @@
   </e>
   <e>
     <lg>
-      <l pos="n">oskây</l>
+      <l pos="n">oskâyi</l>
     </lg>
     <mg>
       <tg xml:lang="eng">
@@ -1064,16 +1054,6 @@
     <mg>
       <tg xml:lang="eng">
         <t pos="n">bacon</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">wâwaskesiw</l>
-    </lg>
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="n">elk</t>
       </tg>
     </mg>
   </e>
@@ -1155,16 +1135,6 @@
     <mg>
       <tg xml:lang="eng">
         <t pos="n">soup</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">sîsîpiwâwi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="n">duck egg</t>
       </tg>
     </mg>
   </e>
