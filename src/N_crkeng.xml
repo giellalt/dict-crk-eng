@@ -184,26 +184,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">sakâw</l>
-    </lg>
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="n">soup</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">mîcimâpo</l>
-    </lg>
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="n">soup</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="n">sîsîpâwi</l>
     </lg>
     <mg>
@@ -229,16 +209,6 @@
     <mg>
       <tg xml:lang="eng">
         <t pos="n">woman</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">mîkiwâhp</l>
-    </lg>
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="n">home</t>
       </tg>
     </mg>
   </e>
@@ -1140,17 +1110,6 @@
   </e>
   <e>
     <lg>
-      <l pos="n">oskâtâsk</l>
-    </lg>
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="n">carrot</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="n">atâwewikamik</l>
     </lg>
     <mg>
@@ -1436,6 +1395,7 @@
     <mg>
       <tg xml:lang="eng">
         <t pos="n">tipi</t>
+        <t pos="n">home</t>
       </tg>
     </mg>
   </e>
