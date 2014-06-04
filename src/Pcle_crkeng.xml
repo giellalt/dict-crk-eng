@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+  
+<r xml:lang="crk">
+<lics xml:space="preserve">
+  <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
+   <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic>
+   <ref>Work by UAlberta, Edmonton, Giellatekno at UiT,
+   and members of the language communities. Source code 
+   available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+  <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to
+   <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+</lics>   
+
+  <e>
+    <lg>
+      <l pos="pcle">sisone</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">along</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ekota</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">here</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ohci</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">for, from</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">keyâpic</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">furtermore, once again, still, more, some more, again</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ekwa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">and, now</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">kâwe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">again, another time, once more</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ekota-ohci</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">xx</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tânisi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">how</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tânispî</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">when spes.</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tânispîhk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">when</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tânêhki</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">why</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tânitê</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">where</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tânita</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">where spes.</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">mâka</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">but, still</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ekôsi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">then, so</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ka</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">oh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">wîpac</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">soon</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">wâhyaw</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">far away</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">nânitaw</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">something</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">peyakwan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle"></t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">pitamâ</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">while</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">âta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">although</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">apisis</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">little</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">wahwâ</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">gee, gosh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">wâcistakâc</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">gee, gosh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">mâmaskâc</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">it's miracle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ma</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">listen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">mistahi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">a</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tânisîyisi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">how</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">kihtwâm</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">again</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">mâna</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">usually</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">tawâw</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">welcome</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">ay%ay</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">thank you</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">kayâs</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">it's been long time</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">cîki</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">near</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">anohc</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">today</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">otâkosîhk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">yesterday</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pcle">isi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pcle">towards</t>
+      </tg>
+    </mg>
+  </e>
+</r>
