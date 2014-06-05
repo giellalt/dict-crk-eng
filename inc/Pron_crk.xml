@@ -7,1587 +7,1587 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ana</l>
+      <l pos="pron">ana</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that</t>
+       <t pos="pron">that</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">anihi</l>
+      <l pos="pron">anihi</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that; those</t>
+       <t pos="pron">that; those</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">anihi</l>
+      <l pos="pron">anihi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those</t>
+       <t pos="pron">those</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">aniki</l>
+      <l pos="pron">aniki</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those</t>
+       <t pos="pron">those</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">anima</l>
+      <l pos="pron">anima</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that</t>
+       <t pos="pron">that</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">animêýiw</l>
+      <l pos="pron">animêýiw</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that</t>
+       <t pos="pron">that</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awa</l>
+      <l pos="pron">awa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this, this one</t>
+       <t pos="pron">this, this one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awêna</l>
+      <l pos="pron">awêna</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">who, whose</t>
+       <t pos="pron">who, whose</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awêýiwa</l>
+      <l pos="pron">awêýiwa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">who</t>
+       <t pos="pron">who</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awiya</l>
+      <l pos="pron">awiya</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">someone</t>
+       <t pos="pron">someone</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awiyak</l>
+      <l pos="pron">awiyak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">someone, somebody</t>
+       <t pos="pron">someone, somebody</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awîna</l>
+      <l pos="pron">awîna</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">who, whose</t>
+       <t pos="pron">who, whose</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awînihi</l>
+      <l pos="pron">awînihi</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">who, whose</t>
+       <t pos="pron">who, whose</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awîniki</l>
+      <l pos="pron">awîniki</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">who, whose</t>
+       <t pos="pron">who, whose</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awînipan</l>
+      <l pos="pron">awînipan</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">nobody</t>
-       <t pos="Pron">gone, be gone</t>
-       <t pos="Pron">someone not here any more</t>
-       <t pos="Pron">I wonder what's become of him/her</t>
+       <t pos="pron">nobody</t>
+       <t pos="pron">gone, be gone</t>
+       <t pos="pron">someone not here any more</t>
+       <t pos="pron">I wonder what's become of him/her</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">awîniwa</l>
+      <l pos="pron">awîniwa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">who, whose</t>
+       <t pos="pron">who, whose</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">aya</l>
+      <l pos="pron">aya</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">the one</t>
+       <t pos="pron">the one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">aya</l>
+      <l pos="pron">aya</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">the ones</t>
+       <t pos="pron">the ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ayak</l>
+      <l pos="pron">ayak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">the ones</t>
+       <t pos="pron">the ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ayi</l>
+      <l pos="pron">ayi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">the one</t>
+       <t pos="pron">the one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkoni</l>
+      <l pos="pron">êkoni</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this, this is the one; those, those are the ones (previously mentioned)</t>
+       <t pos="pron">this, this is the one; those, those are the ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkoni</l>
+      <l pos="pron">êkoni</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+       <t pos="pron">those, those are the ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkonik</l>
+      <l pos="pron">êkonik</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+       <t pos="pron">those, those are the ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkôma</l>
+      <l pos="pron">êkôma</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this is it (previously mentioned)</t>
+       <t pos="pron">this is it (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkwâna</l>
+      <l pos="pron">êkwâna</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that's him/her</t>
+       <t pos="pron">that's him/her</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkwânihi</l>
+      <l pos="pron">êkwânihi</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that's him/her/it; and then there is that one</t>
+       <t pos="pron">that's him/her/it; and then there is that one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkwânihi</l>
+      <l pos="pron">êkwânihi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that's them; and then there are those</t>
+       <t pos="pron">that's them; and then there are those</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkwâniki</l>
+      <l pos="pron">êkwâniki</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that's them; and then there are those</t>
+       <t pos="pron">that's them; and then there are those</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkwânima</l>
+      <l pos="pron">êkwânima</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that's it</t>
+       <t pos="pron">that's it</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êkwâwa</l>
+      <l pos="pron">êkwâwa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this is him/her</t>
+       <t pos="pron">this is him/her</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwako</l>
+      <l pos="pron">êwako</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this (previously mentioned), that one; the same one</t>
+       <t pos="pron">this (previously mentioned), that one; the same one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwako</l>
+      <l pos="pron">êwako</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this (previously mentioned), that one; the same one</t>
+       <t pos="pron">this (previously mentioned), that one; the same one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwako ôma</l>
+      <l pos="pron">êwako ôma</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this same one (previously mentioned)</t>
+       <t pos="pron">this same one (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakoni</l>
+      <l pos="pron">êwakoni</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this, this is the one; those, those are the ones (previously mentioned)</t>
+       <t pos="pron">this, this is the one; those, those are the ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakoni</l>
+      <l pos="pron">êwakoni</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+       <t pos="pron">those, those are the ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakonik</l>
+      <l pos="pron">êwakonik</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+       <t pos="pron">those, those are the ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakoýiw</l>
+      <l pos="pron">êwakoýiw</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this (previously mentioned)</t>
+       <t pos="pron">this (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwâ</l>
+      <l pos="pron">êwakwâ</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">there s/he (previously mentioned) is</t>
+       <t pos="pron">there s/he (previously mentioned) is</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwâna</l>
+      <l pos="pron">êwakwâna</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that same one (previously mentioned)</t>
+       <t pos="pron">that same one (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwânihi</l>
+      <l pos="pron">êwakwânihi</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that same one; those same ones (previously mentioned)</t>
+       <t pos="pron">that same one; those same ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwânihi</l>
+      <l pos="pron">êwakwânihi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those same ones (previously mentioned)</t>
+       <t pos="pron">those same ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwâniki</l>
+      <l pos="pron">êwakwâniki</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those same ones (previously mentioned)</t>
+       <t pos="pron">those same ones (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwânima</l>
+      <l pos="pron">êwakwânima</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that same one (previously mentioned)</t>
+       <t pos="pron">that same one (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwâwa</l>
+      <l pos="pron">êwakwâwa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this same one (previously mentioned)</t>
+       <t pos="pron">this same one (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwê</l>
+      <l pos="pron">êwakwê</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">there it is (previously mentioned)</t>
+       <t pos="pron">there it is (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwêhâ</l>
+      <l pos="pron">êwakwêhâ</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">there they are (previously mentioned)</t>
+       <t pos="pron">there they are (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">êwakwêhkâk</l>
+      <l pos="pron">êwakwêhkâk</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">there they are (previously mentioned)</t>
+       <t pos="pron">there they are (previously mentioned)</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kahkiýaw awiyak</l>
+      <l pos="pron">kahkiýaw awiyak</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">everyone</t>
+       <t pos="pron">everyone</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kahkiýaw kîkway</l>
+      <l pos="pron">kahkiýaw kîkway</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">everything</t>
+       <t pos="pron">everything</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kêko</l>
+      <l pos="pron">kêko</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which? what kind?</t>
+       <t pos="pron">which? what kind?</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kêkwây</l>
+      <l pos="pron">kêkwây</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">what</t>
+       <t pos="pron">what</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kiýa</l>
+      <l pos="pron">kiýa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">you</t>
+       <t pos="pron">you</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kiýawâw</l>
+      <l pos="pron">kiýawâw</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">you</t>
+       <t pos="pron">you</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kiýânaw</l>
+      <l pos="pron">kiýânaw</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">we, us; we-and-you</t>
+       <t pos="pron">we, us; we-and-you</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîko</l>
+      <l pos="pron">kîko</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which, what one; what kind</t>
+       <t pos="pron">which, what one; what kind</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkway</l>
+      <l pos="pron">kîkway</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">something, some, thing; [in negative phrases:] anything, any</t>
+       <t pos="pron">something, some, thing; [in negative phrases:] anything, any</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkwâs</l>
+      <l pos="pron">kîkwâs</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">something, some, thing; something little; [in negative clauses:] anything, any</t>
+       <t pos="pron">something, some, thing; something little; [in negative clauses:] anything, any</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkwây</l>
+      <l pos="pron">kîkwây</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">what</t>
+       <t pos="pron">what</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkwây</l>
+      <l pos="pron">kîkwây</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">what</t>
+       <t pos="pron">what</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkwâya</l>
+      <l pos="pron">kîkwâya</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">what</t>
+       <t pos="pron">what</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkwâya</l>
+      <l pos="pron">kîkwâya</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">what</t>
+       <t pos="pron">what</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkwâyak</l>
+      <l pos="pron">kîkwâyak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">what</t>
+       <t pos="pron">what</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîkwâyihkân</l>
+      <l pos="pron">kîkwâyihkân</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">what odd thing is this? what sort of thing?</t>
+       <t pos="pron">what odd thing is this? what sort of thing?</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîsta</l>
+      <l pos="pron">kîsta</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">you, too; you as well</t>
+       <t pos="pron">you, too; you as well</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîstanaw</l>
+      <l pos="pron">kîstanaw</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">we, too; we-and-you, too; all of us as well</t>
+       <t pos="pron">we, too; we-and-you, too; all of us as well</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kîstawâw</l>
+      <l pos="pron">kîstawâw</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">you (pl), too; you (pl) as well); you (pl) by contrast; you yourselves</t>
+       <t pos="pron">you (pl), too; you (pl) as well); you (pl) by contrast; you yourselves</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">konita-kîkway</l>
+      <l pos="pron">konita-kîkway</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">something or other</t>
+       <t pos="pron">something or other</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotak</l>
+      <l pos="pron">kotak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other, another</t>
+       <t pos="pron">other, another</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotak</l>
+      <l pos="pron">kotak</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other, another</t>
+       <t pos="pron">other, another</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotaka</l>
+      <l pos="pron">kotaka</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other</t>
+       <t pos="pron">other</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotaka</l>
+      <l pos="pron">kotaka</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other</t>
+       <t pos="pron">other</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotakak</l>
+      <l pos="pron">kotakak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other</t>
+       <t pos="pron">other</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotakiya</l>
+      <l pos="pron">kotakiya</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other one, the other one</t>
+       <t pos="pron">other one, the other one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotakiyak</l>
+      <l pos="pron">kotakiyak</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other ones, the other ones</t>
+       <t pos="pron">other ones, the other ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">kotakiýiw</l>
+      <l pos="pron">kotakiýiw</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">other one, the other one</t>
+       <t pos="pron">other one, the other one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ma kîkway</l>
+      <l pos="pron">ma kîkway</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">nothing, not; zero, nil</t>
+       <t pos="pron">nothing, not; zero, nil</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">môýa awiyak</l>
+      <l pos="pron">môýa awiyak</l>
       <lc>PR</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">no-one, nobody</t>
+       <t pos="pron">no-one, nobody</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nama awiya</l>
+      <l pos="pron">nama awiya</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">no-one, nobody</t>
+       <t pos="pron">no-one, nobody</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nama awiyak</l>
+      <l pos="pron">nama awiyak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">no-one, nobody</t>
+       <t pos="pron">no-one, nobody</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nama kîkway</l>
+      <l pos="pron">nama kîkway</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">nothing; not at all; there is none</t>
+       <t pos="pron">nothing; not at all; there is none</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">namôýa awiyak</l>
+      <l pos="pron">namôýa awiyak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">no-one, nobody</t>
+       <t pos="pron">no-one, nobody</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">namôýa kîkway</l>
+      <l pos="pron">namôýa kîkway</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">nothing, none</t>
+       <t pos="pron">nothing, none</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nâha</l>
+      <l pos="pron">nâha</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that one yonder, that further</t>
+       <t pos="pron">that one yonder, that further</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nêha</l>
+      <l pos="pron">nêha</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those yonder</t>
+       <t pos="pron">those yonder</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nêhi</l>
+      <l pos="pron">nêhi</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those yonder, that yonder</t>
+       <t pos="pron">those yonder, that yonder</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nêhi</l>
+      <l pos="pron">nêhi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those yonder, that yonder</t>
+       <t pos="pron">those yonder, that yonder</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nêki</l>
+      <l pos="pron">nêki</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those yonder</t>
+       <t pos="pron">those yonder</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nêkik</l>
+      <l pos="pron">nêkik</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those yonder</t>
+       <t pos="pron">those yonder</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nêma</l>
+      <l pos="pron">nêma</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that yonder</t>
+       <t pos="pron">that yonder</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">niýa</l>
+      <l pos="pron">niýa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">I, me, mine</t>
+       <t pos="pron">I, me, mine</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">niýa wiýa</l>
+      <l pos="pron">niýa wiýa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">for my part, as for me; I myself</t>
+       <t pos="pron">for my part, as for me; I myself</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">niýanân</l>
+      <l pos="pron">niýanân</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">we, us, our</t>
+       <t pos="pron">we, us, our</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nîsta</l>
+      <l pos="pron">nîsta</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">I, too; I by contrast; I myself</t>
+       <t pos="pron">I, too; I by contrast; I myself</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">nîstanân</l>
+      <l pos="pron">nîstanân</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">we, too; we by contrast; we ourselves</t>
+       <t pos="pron">we, too; we by contrast; we ourselves</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôh îta</l>
+      <l pos="pron">ôh îta</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">here they are</t>
+       <t pos="pron">here they are</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôh îta</l>
+      <l pos="pron">ôh îta</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">here they are; here it is</t>
+       <t pos="pron">here they are; here it is</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôhi</l>
+      <l pos="pron">ôhi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">these ones</t>
+       <t pos="pron">these ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôhi</l>
+      <l pos="pron">ôhi</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this one, these ones</t>
+       <t pos="pron">this one, these ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôk îta</l>
+      <l pos="pron">ôk îta</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">here they are</t>
+       <t pos="pron">here they are</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôki</l>
+      <l pos="pron">ôki</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">these</t>
+       <t pos="pron">these</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôm îta</l>
+      <l pos="pron">ôm îta</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">here it is</t>
+       <t pos="pron">here it is</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôma</l>
+      <l pos="pron">ôma</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this</t>
+       <t pos="pron">this</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ômêýiw</l>
+      <l pos="pron">ômêýiw</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">this</t>
+       <t pos="pron">this</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôyâ</l>
+      <l pos="pron">ôyâ</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that one no longer here</t>
+       <t pos="pron">that one no longer here</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôyê</l>
+      <l pos="pron">ôyê</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">that one no longer here</t>
+       <t pos="pron">that one no longer here</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôyêhâ</l>
+      <l pos="pron">ôyêhâ</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those ones no longer here</t>
+       <t pos="pron">those ones no longer here</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôyêhâ</l>
+      <l pos="pron">ôyêhâ</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those ones no longer here, that one no longer here</t>
+       <t pos="pron">those ones no longer here, that one no longer here</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">ôyêhkâk</l>
+      <l pos="pron">ôyêhkâk</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">those ones no longer here</t>
+       <t pos="pron">those ones no longer here</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">piko awiyak</l>
+      <l pos="pron">piko awiyak</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">everyone, everybody</t>
+       <t pos="pron">everyone, everybody</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">piko kîkway</l>
+      <l pos="pron">piko kîkway</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">something or other; anything at all, everything</t>
+       <t pos="pron">something or other; anything at all, everything</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">piko kîkwâs</l>
+      <l pos="pron">piko kîkwâs</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">something or other; anything at all</t>
+       <t pos="pron">something or other; anything at all</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tân âna</l>
+      <l pos="pron">tân âna</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which one</t>
+       <t pos="pron">which one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâna</l>
+      <l pos="pron">tâna</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which; which one?</t>
+       <t pos="pron">which; which one?</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâni</l>
+      <l pos="pron">tâni</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which one</t>
+       <t pos="pron">which one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâni</l>
+      <l pos="pron">tâni</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which one, which ones</t>
+       <t pos="pron">which one, which ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tânihi</l>
+      <l pos="pron">tânihi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which ones</t>
+       <t pos="pron">which ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tânihi</l>
+      <l pos="pron">tânihi</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which one, which ones</t>
+       <t pos="pron">which one, which ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâniki</l>
+      <l pos="pron">tâniki</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which ones</t>
+       <t pos="pron">which ones</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tânima</l>
+      <l pos="pron">tânima</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which one</t>
+       <t pos="pron">which one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tânimâ</l>
+      <l pos="pron">tânimâ</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">where is s/he</t>
+       <t pos="pron">where is s/he</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tânimêýiw</l>
+      <l pos="pron">tânimêýiw</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which one</t>
+       <t pos="pron">which one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tânimi</l>
+      <l pos="pron">tânimi</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">which one</t>
+       <t pos="pron">which one</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâniwâ</l>
+      <l pos="pron">tâniwâ</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">where is s/he?</t>
+       <t pos="pron">where is s/he?</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâniwê</l>
+      <l pos="pron">tâniwê</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">where is it</t>
+       <t pos="pron">where is it</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâniwêhâ</l>
+      <l pos="pron">tâniwêhâ</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">where are they</t>
+       <t pos="pron">where are they</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâniwêhâ</l>
+      <l pos="pron">tâniwêhâ</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">where are they, where is it</t>
+       <t pos="pron">where are they, where is it</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâniwêhê</l>
+      <l pos="pron">tâniwêhê</l>
       <lc>PrI</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">where</t>
+       <t pos="pron">where</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">tâniwêhkâk</l>
+      <l pos="pron">tâniwêhkâk</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">where are they</t>
+       <t pos="pron">where are they</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">wiýa</l>
+      <l pos="pron">wiýa</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">he, she, it; him, her, it; his, hers, its</t>
+       <t pos="pron">he, she, it; him, her, it; his, hers, its</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">wiýawâw</l>
+      <l pos="pron">wiýawâw</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">they, them, theirs</t>
+       <t pos="pron">they, them, theirs</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">wîsta</l>
+      <l pos="pron">wîsta</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">he, too; she, too; he, by contrast; she, by contrast</t>
+       <t pos="pron">he, too; she, too; he, by contrast; she, by contrast</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="Pron">wîstawâw</l>
+      <l pos="pron">wîstawâw</l>
       <lc>PrA</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="Pron">they, too; they, by contrast; they themselves</t>
+       <t pos="pron">they, too; they, by contrast; they themselves</t>
    </tg>
    </mg>
 </e>
