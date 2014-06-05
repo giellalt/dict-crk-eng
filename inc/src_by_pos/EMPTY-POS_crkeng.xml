@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="crk">
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">ahpô cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">or else</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">ahpô êtikwê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">maybe, perhaps</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">ahpô piko</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">even if; and yet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">anohc kâ-ispaýik</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">this week</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">anohc kâ-kîsikâk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">today</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">awasi ispî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">the time before</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">awêkâ cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">or else</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">awîna êtikwê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">I don't know who; I wonder who</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">aýiwâk ôma</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">there is more here</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">âhci piko</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">still, nevertheless; despite the odds; in spite of; all the more</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">âsay cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">already? are you ready?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">âsay mîna</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">again, already again</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">âstamitê isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">over this way</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">âta wiýa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">though, although; nonetheless, anyway</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">âw mâka</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">all right, let's go</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">cêskwa pitamâ</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">wait a while, a little while</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">cikêmâ anima</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">sure, sure enough</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êcika ana</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what is that! so that's it</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êcika ani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">so that's it; so it is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êcika anima</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what is that! so that's it</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êcika ôma</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what is this! and so it appears</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkâ êsa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">you shouldn't have ...; well, you should not have</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkâ kîkway</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">nothing, not, not at all, not any</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkâ nânitaw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">nowhere, nothing; don't do anything</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi ani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">that's the way; that's it, that's right</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi ani kiyâm</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">nevermind; let it go as is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">just so, like that; thus, in that way; that is how it is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi mâka</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">that's it; so long, later, I'd better be going</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi mîna</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">also</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi nawac</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">better, that's better</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi pita</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">that's it for now</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkosi pitamâ</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">that's it for now</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkota mwêhci</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">at that exact place</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkwa ani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">it was then; well, that's it, (concluding statement)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkwa mîna</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">and now; also</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êkwa wiýa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">and then, it was then; then s/he ...</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êsa anima</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">apparently that</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êsa ôma</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">apparently this</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êwako ani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">and so after that</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">êwako ôma ohci</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">about this; this is why, this is the reason for this</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">ispîhci wiýa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">instead of</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">itêhkê isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">in that direction</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kâýa kîkway</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">nothing</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kiýa mâka</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">and you?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kiyâm âta</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">even though</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîhtwâm ka-wâpamitin</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">good-bye, see you again; literally: I will see you again</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîko pîsim</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what month (is it)?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîkway piko</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">the only thing is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîkwây êtikwê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">I don't know what it is; I wonder what it is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîkwây kani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what can it have been?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîkwây ôma</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what is this?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîspin êkâ</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">if not</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîspin êsa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">if it was, if ever</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîwêtinohk isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">northward, towards the north</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kîwêtinohk ohci</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">from the north</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kotak ispaýiki</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">next week</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kotak mîna</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">another</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kotak pîsim</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">next month</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">kwayask êwako</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">that's right; that one would do right</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">ma cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">is it not the case? was it not? not so?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">ma nâ</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">is that not so</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mahti êsa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">please; let's see</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mahti mâka</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">well ...</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">matwân cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">I wonder, I wonder if; I believe; perhaps</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mâka awa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">but here s/he is, speak of the devil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mâka mîna</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">as usual</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mâka ôma</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">but here it is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mâmaskâc</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">surprising; wonderful and strange; amazing!</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mâni mâka</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">possibly, it could be; for sure; (if) it were to</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mâwaci iýikohk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">best, most</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">misiwê ita</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">everywhere, all over</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">misiwê itê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">everywhere, all over, to every place</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mîna apisîs</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">and a quarter (of an hour), 15 minutes or so</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mîna âpihtâw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">and a half, half-hour, half past the hour</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môy cêskwa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not yet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môy kakêtihk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">a great many</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môy konita</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not in vain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môy nânitaw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">it's fine, all right; no worries</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môy nânitaw itê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">nowhere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môy wîhkâc</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">never</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môy wîhkât</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">never</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môýa</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">not</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môýa ahpô</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not even</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môýa cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">isn't that so?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">môýa nânitaw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">it's fine, all right; no worries</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mwâc</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">not</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mwâc ahpô</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not even; no</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">mwât</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">not</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nama cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">is it not the case, isn't it that, wasn't that so, right</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nama mayaw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not soon enough; not immediately, later</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nama nânitaw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not much, not anything; nothing; that's alright</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nama wîhkâc</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">never</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôy wîhkâc</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">never</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">no; not</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa ahpô</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not even</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa apisîs</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not a little, quite a bit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa cêskwa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not yet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa cî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">could it be? is it not?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa êkwaýikohk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not so, not as much, not that much</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa kakêtihk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">extremely, a great deal, a great many</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa nânitaw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">fine, I'm fine, all right, okay; insignificant, of little account; nowhere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa nânitawitê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">nowhere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa wiýa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not him, not her</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namôýa wîhkâc</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">never</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namwâc</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">not; by no means, not at all</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">namwâc êkwaýikohk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">not so, not as much, not that much</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nanâtohk isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">in various ways</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nanâtohk kîkway</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">different, all kinds of things</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">natimihk isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">upstream; inland; towards the west</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nawac apisîs</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">less</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nawac êkosi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">that's better</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nawac êkosi isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">that's better that way</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nawac kwayask</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">better</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nawac mistahi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">more, even more</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nawac piko</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">sort of, kind of, approximately; more or less; even a little</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nânitaw isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">in some way, in any way; in various ways; if by any chance, just in case</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nânitaw ita</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">somewhere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nânitaw itê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">somewhere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nêtê ohci</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">from over there</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nistam mâwacêyas</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">first, earliest, oldest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nisto kîsikâw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">three days</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nisto tipahikan</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">three o'clock; three yards</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nisto tipiskâw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">three nights</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nistomitanaw tahtwâpisk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">thirty dollars</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">nîsitanaw tahtwâpisk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">twenty dollars</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">omisi isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">like this, in this way; this is how it is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">osâm apisîs</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">too little, less than enough</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">osâm mistahi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">too much, more than enough</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">osâm piko</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">mainly, mostly; more or less</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">otâhk ispaýiw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">last week</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">ôtê isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">over this way</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">pâtimâ ici</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">later on, o.k.?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">pâtimâ itâp</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">later on, o.k.?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">pêyakwâw êsa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">once upon a time, one time</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">pêyâhtak</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">quietly, slowly; s/he takes it easy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">pêyâhtik</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">quietly, softly, slowly, carefully</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko ani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">anyway</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko ispî</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">anytime</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko ita</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">anywhere, in any place; everywhere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko itê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">anywhere; all over, everywhere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko itê isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">in any direction</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko itowahk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">of any kind, of all kinds</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko itowihk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">in any place, in all places</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko iýikohk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">any amount</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">piko iyiwas</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">entirely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">pîtos mîna</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">different from</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">pôti</l>
+         <lc>IPC ;; IPJ</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPC ;; IPJ">what was this! lo and behold! and here it was! then, as it turns out</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">sâkâstênohk isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">toward the east, eastward</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">sâwanohk isi</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">southward, to the south</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tahki aýiwâk</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">increasingly, more and more; getting to be</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tân ôt âni</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">how much, how great</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânêhki ana</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">why is that? what is the matter with him/her?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânima êwako askiy?</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what year was it?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânisi êkwa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">how are you?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânisi êtikwê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">I don't know; I wonder how, I wonder what</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânispî ohci</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">how long, from what point in time</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânita ohci</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">from where</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânitahto askiy</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">how many years</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânitahto kîsikâw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what day (is it)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânitahto pîsim</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">how many months; what month is it; [predicative:] so many months</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânitahto tipahikan</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">what time (is it)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânitahto tipiskâw</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">how many nights</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tânitê êtikwê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">I don't know where; I wonder where</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tâniwâ êtikwê</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">I do not know where s/he is, I wonder where s/he is</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tâpwê piko ani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">certainly, okay, go ahead</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tâpwê wiýa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">it is a fact; oh, that one (guy, girl); how typical of that one</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">tâpwê wiýa ani</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">it is a fact</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">wiýa âta wiýa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">but of course</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="Wolvengrey">
+      <lg>
+         <l pos="">wiýâ wîpac cî wiýa</l>
+         <lc>IPH</lc>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="IPH">it is a rare and welcome event that</t>
+         </tg>
+      </mg>
+   </e>
+</r>
