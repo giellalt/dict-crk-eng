@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
+<!DOCTYPE r
+PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ana</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">anihi</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that; those</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">anihi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">aniki</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">anima</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">animêýiw</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this, this one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awêna</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">who, whose</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awêýiwa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">who</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awiya</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">someone</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awiyak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">someone, somebody</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awîna</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">who, whose</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awînihi</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">who, whose</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awîniki</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">who, whose</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awînipan</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">nobody</t>
+       <t pos="Pron">gone, be gone</t>
+       <t pos="Pron">someone not here any more</t>
+       <t pos="Pron">I wonder what's become of him/her</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">awîniwa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">who, whose</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">aya</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">the one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">aya</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">the ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ayak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">the ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ayi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">the one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkoni</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this, this is the one; those, those are the ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkoni</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkonik</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkôma</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this is it (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkwâna</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that's him/her</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkwânihi</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that's him/her/it; and then there is that one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkwânihi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that's them; and then there are those</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkwâniki</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that's them; and then there are those</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkwânima</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that's it</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êkwâwa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this is him/her</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwako</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this (previously mentioned), that one; the same one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwako</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this (previously mentioned), that one; the same one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwako ôma</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this same one (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakoni</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this, this is the one; those, those are the ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakoni</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakonik</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those, those are the ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakoýiw</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwâ</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">there s/he (previously mentioned) is</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwâna</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that same one (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwânihi</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that same one; those same ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwânihi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those same ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwâniki</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those same ones (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwânima</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that same one (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwâwa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this same one (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwê</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">there it is (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwêhâ</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">there they are (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">êwakwêhkâk</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">there they are (previously mentioned)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kahkiýaw awiyak</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">everyone</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kahkiýaw kîkway</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">everything</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kêko</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which? what kind?</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kêkwây</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">what</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kiýa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">you</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kiýawâw</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">you</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kiýânaw</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">we, us; we-and-you</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîko</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which, what one; what kind</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkway</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">something, some, thing; [in negative phrases:] anything, any</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkwâs</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">something, some, thing; something little; [in negative clauses:] anything, any</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkwây</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">what</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkwây</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">what</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkwâya</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">what</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkwâya</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">what</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkwâyak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">what</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîkwâyihkân</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">what odd thing is this? what sort of thing?</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîsta</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">you, too; you as well</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîstanaw</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">we, too; we-and-you, too; all of us as well</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kîstawâw</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">you (pl), too; you (pl) as well); you (pl) by contrast; you yourselves</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">konita-kîkway</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">something or other</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other, another</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotak</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other, another</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotaka</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotaka</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotakak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotakiya</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other one, the other one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotakiyak</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other ones, the other ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">kotakiýiw</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">other one, the other one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ma kîkway</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">nothing, not; zero, nil</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">môýa awiyak</l>
+      <lc>PR</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">no-one, nobody</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nama awiya</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">no-one, nobody</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nama awiyak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">no-one, nobody</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nama kîkway</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">nothing; not at all; there is none</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">namôýa awiyak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">no-one, nobody</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">namôýa kîkway</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">nothing, none</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nâha</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that one yonder, that further</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nêha</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those yonder</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nêhi</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those yonder, that yonder</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nêhi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those yonder, that yonder</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nêki</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those yonder</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nêkik</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those yonder</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nêma</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that yonder</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">niýa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">I, me, mine</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">niýa wiýa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">for my part, as for me; I myself</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">niýanân</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">we, us, our</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nîsta</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">I, too; I by contrast; I myself</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">nîstanân</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">we, too; we by contrast; we ourselves</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôh îta</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">here they are</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôh îta</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">here they are; here it is</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôhi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">these ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôhi</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this one, these ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôk îta</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">here they are</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôki</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">these</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôm îta</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">here it is</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôma</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ômêýiw</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">this</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôyâ</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that one no longer here</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôyê</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">that one no longer here</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôyêhâ</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those ones no longer here</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôyêhâ</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those ones no longer here, that one no longer here</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">ôyêhkâk</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">those ones no longer here</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">piko awiyak</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">everyone, everybody</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">piko kîkway</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">something or other; anything at all, everything</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">piko kîkwâs</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">something or other; anything at all</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tân âna</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâna</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which; which one?</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâni</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâni</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which one, which ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tânihi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tânihi</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which one, which ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâniki</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which ones</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tânima</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tânimâ</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">where is s/he</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tânimêýiw</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tânimi</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">which one</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâniwâ</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">where is s/he?</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâniwê</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">where is it</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâniwêhâ</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">where are they</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâniwêhâ</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">where are they, where is it</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâniwêhê</l>
+      <lc>PrI</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">where</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">tâniwêhkâk</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">where are they</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">wiýa</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">he, she, it; him, her, it; his, hers, its</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">wiýawâw</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">they, them, theirs</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">wîsta</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">he, too; she, too; he, by contrast; she, by contrast</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Wolvengrey">
+   <lg>
+      <l pos="Pron">wîstawâw</l>
+      <lc>PrA</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="Pron">they, too; they, by contrast; they themselves</t>
+   </tg>
+   </mg>
+</e>
+
+</r>
