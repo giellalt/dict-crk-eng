@@ -31,7 +31,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aciýaw</l>
+      <l pos="pcle">aciyaw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -427,7 +427,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">anohc kâ-ispaýik</l>
+      <l pos="pcle">anohc kâ-ispayik</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -943,24 +943,24 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">awahêk!</l>
+      <l pos="pcle">awahêk</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">be careful! take care!</t>
+       <t pos="pcle">be careful take care</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">awahê!</l>
+      <l pos="pcle">awahê</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">be careful! take care!</t>
+       <t pos="pcle">be careful take care</t>
    </tg>
    </mg>
 </e>
@@ -1232,12 +1232,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">awiyâ!</l>
+      <l pos="pcle">awiyâ</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">ouch! ow! [exclamation used when experiencing sudden pain (e.g. stubbing a toe, burning one's fingers, etc.)]</t>
+       <t pos="pcle">ouch ow [exclamation used when experiencing sudden pain (e.g. stubbing a toe, burning one's fingers, etc.)]</t>
    </tg>
    </mg>
 </e>
@@ -1273,7 +1273,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">so here you are! here s/he is over here</t>
+       <t pos="pcle">so here you are here s/he is over here</t>
    </tg>
    </mg>
 </e>
@@ -1297,7 +1297,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">hey!</t>
+       <t pos="pcle">hey</t>
    </tg>
    </mg>
 </e>
@@ -1400,7 +1400,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýakaski-</l>
+      <l pos="pcle">ayakaski-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -1448,7 +1448,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýaskoc</l>
+      <l pos="pcle">ayaskoc</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1664,7 +1664,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýis</l>
+      <l pos="pcle">ayis</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1676,7 +1676,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýisac</l>
+      <l pos="pcle">ayisac</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1688,7 +1688,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýisiýinînâhk</l>
+      <l pos="pcle">ayisiyinînâhk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1700,7 +1700,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýisk</l>
+      <l pos="pcle">ayisk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1712,7 +1712,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýiwâk</l>
+      <l pos="pcle">ayiwâk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1724,7 +1724,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýiwâk ôma</l>
+      <l pos="pcle">ayiwâk ôma</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -1736,7 +1736,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýiwâkês</l>
+      <l pos="pcle">ayiwâkês</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1748,7 +1748,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýiwâkêsîs</l>
+      <l pos="pcle">ayiwâkêsîs</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -1760,19 +1760,19 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýiwâkihkin</l>
+      <l pos="pcle">ayiwâkihkin</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">too much! goodness gracious; literally: too much exists; it's too much!</t>
+       <t pos="pcle">too much goodness gracious; literally: too much exists; it's too much</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">aýîki-</l>
+      <l pos="pcle">ayîki-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -1873,7 +1873,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">ah, oh, och!</t>
+       <t pos="pcle">ah, oh, och</t>
    </tg>
    </mg>
 </e>
@@ -2061,7 +2061,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">âkaýâsîwi-</l>
+      <l pos="pcle">âkayâsîwi-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -2510,7 +2510,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">come here!</t>
+       <t pos="pcle">come here</t>
    </tg>
    </mg>
 </e>
@@ -2558,7 +2558,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">all of you come here!</t>
+       <t pos="pcle">all of you come here</t>
    </tg>
    </mg>
 </e>
@@ -2642,14 +2642,14 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">all of you come here!</t>
+       <t pos="pcle">all of you come here</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">âstamiýikohk</l>
+      <l pos="pcle">âstamiyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -2685,7 +2685,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">âta wiýa</l>
+      <l pos="pcle">âta wiya</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -2757,7 +2757,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">âýimanohk</l>
+      <l pos="pcle">âyimanohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -2769,7 +2769,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">âýimâc</l>
+      <l pos="pcle">âyimâc</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -2781,7 +2781,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">âýîci-</l>
+      <l pos="pcle">âyîci-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -3086,7 +3086,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">see here!</t>
+       <t pos="pcle">see here</t>
    </tg>
    </mg>
 </e>
@@ -3110,7 +3110,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">what is this!; and so it appears that</t>
+       <t pos="pcle">what is this; and so it appears that</t>
    </tg>
    </mg>
 </e>
@@ -3122,7 +3122,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">what is that! so that's it</t>
+       <t pos="pcle">what is that so that's it</t>
    </tg>
    </mg>
 </e>
@@ -3146,7 +3146,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">what is that! so that's it</t>
+       <t pos="pcle">what is that so that's it</t>
    </tg>
    </mg>
 </e>
@@ -3158,7 +3158,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">what is this! and so it appears</t>
+       <t pos="pcle">what is this and so it appears</t>
    </tg>
    </mg>
 </e>
@@ -3273,7 +3273,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êkâwiýa</l>
+      <l pos="pcle">êkâwiya</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3297,7 +3297,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êkâýa</l>
+      <l pos="pcle">êkâya</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3513,7 +3513,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êkoýikohk</l>
+      <l pos="pcle">êkoyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3561,7 +3561,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êkwa wiýa</l>
+      <l pos="pcle">êkwa wiya</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -3609,7 +3609,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êkwaýikohk</l>
+      <l pos="pcle">êkwayikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3789,7 +3789,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êwakoýikohk</l>
+      <l pos="pcle">êwakoyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3806,7 +3806,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">hey! [discourse particle: introductory; exclamatory]</t>
+       <t pos="pcle">hey [discourse particle: introductory; exclamatory]</t>
    </tg>
    </mg>
 </e>
@@ -3825,7 +3825,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êýiko-</l>
+      <l pos="pcle">êyiko-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -3837,7 +3837,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êýikohk</l>
+      <l pos="pcle">êyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3849,7 +3849,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êýiwê</l>
+      <l pos="pcle">êyiwê</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3861,7 +3861,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">êýiwêhk</l>
+      <l pos="pcle">êyiwêhk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -3926,7 +3926,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh!</t>
+       <t pos="pcle">oh</t>
    </tg>
    </mg>
 </e>
@@ -4246,7 +4246,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ispîhci wiýa</l>
+      <l pos="pcle">ispîhci wiya</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -4378,7 +4378,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">iýaskohc</l>
+      <l pos="pcle">iyaskohc</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -4438,7 +4438,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">iýikohk</l>
+      <l pos="pcle">iyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -4450,7 +4450,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">iýini-</l>
+      <l pos="pcle">iyini-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -4462,7 +4462,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">iýinito-</l>
+      <l pos="pcle">iyinito-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -4474,7 +4474,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">iýinînâhk</l>
+      <l pos="pcle">iyinînâhk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -4515,7 +4515,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">lo! look! behold!</t>
+       <t pos="pcle">lo look behold</t>
    </tg>
    </mg>
 </e>
@@ -4527,7 +4527,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">lo! look! behold!</t>
+       <t pos="pcle">lo look behold</t>
    </tg>
    </mg>
 </e>
@@ -4539,7 +4539,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">enemy in sight!, yes</t>
+       <t pos="pcle">enemy in sight, yes</t>
    </tg>
    </mg>
 </e>
@@ -4587,7 +4587,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh! yes; [discourse particle; accepting information]</t>
+       <t pos="pcle">oh yes; [discourse particle; accepting information]</t>
    </tg>
    </mg>
 </e>
@@ -4618,7 +4618,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kahkiýaw</l>
+      <l pos="pcle">kahkiyaw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -4642,7 +4642,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kakwâhýahkamik</l>
+      <l pos="pcle">kakwâhyahkamik</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
@@ -4654,7 +4654,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kakwâhýaki-</l>
+      <l pos="pcle">kakwâhyaki-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -4666,7 +4666,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kakwâýaki-</l>
+      <l pos="pcle">kakwâyaki-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -5067,7 +5067,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh! yes</t>
+       <t pos="pcle">oh yes</t>
    </tg>
    </mg>
 </e>
@@ -5211,7 +5211,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">be quiet! [imperative; cf. êkâwiya kito don't make a sound!]</t>
+       <t pos="pcle">be quiet [imperative; cf. êkâwiya kito don't make a sound]</t>
    </tg>
    </mg>
 </e>
@@ -5302,7 +5302,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kâwiýa</l>
+      <l pos="pcle">kâwiya</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -5314,7 +5314,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kâýa</l>
+      <l pos="pcle">kâya</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -5326,7 +5326,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kâýa kîkway</l>
+      <l pos="pcle">kâya kîkway</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -6347,7 +6347,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kiýa mâka</l>
+      <l pos="pcle">kiya mâka</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -6359,7 +6359,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kiýaskoc</l>
+      <l pos="pcle">kiyaskoc</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -6371,7 +6371,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kiýaskociwâw</l>
+      <l pos="pcle">kiyaskociwâw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -6383,7 +6383,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kiýaskot</l>
+      <l pos="pcle">kiyaskot</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -6395,7 +6395,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kiýatowahk</l>
+      <l pos="pcle">kiyatowahk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -6503,7 +6503,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kiýipa</l>
+      <l pos="pcle">kiyipa</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -7115,7 +7115,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kotak ispaýiki</l>
+      <l pos="pcle">kotak ispayiki</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -7199,7 +7199,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">kwaýako-</l>
+      <l pos="pcle">kwayako-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -7360,7 +7360,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">come here! (call to dog team)</t>
+       <t pos="pcle">come here (call to dog team)</t>
    </tg>
    </mg>
 </e>
@@ -7619,7 +7619,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">mamiýwê</l>
+      <l pos="pcle">mamiywê</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -8032,7 +8032,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">surprising; wonderful and strange; amazing!</t>
+       <t pos="pcle">surprising; wonderful and strange; amazing</t>
    </tg>
    </mg>
 </e>
@@ -8363,7 +8363,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">mâwaci iýikohk</l>
+      <l pos="pcle">mâwaci iyikohk</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -8411,7 +8411,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">mâýâci-</l>
+      <l pos="pcle">mâyâci-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -8423,7 +8423,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">mâýi-</l>
+      <l pos="pcle">mâyi-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -8435,7 +8435,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">mâýi-</l>
+      <l pos="pcle">mâyi-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -8771,7 +8771,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">mihýawê-</l>
+      <l pos="pcle">mihyawê-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -8915,7 +8915,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">misi-aýiwâk</l>
+      <l pos="pcle">misi-ayiwâk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9167,7 +9167,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýâmay</l>
+      <l pos="pcle">miyâmay</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9179,7 +9179,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýâmâ</l>
+      <l pos="pcle">miyâmâ</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9191,7 +9191,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýâmâc</l>
+      <l pos="pcle">miyâmâc</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9203,7 +9203,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýâskam</l>
+      <l pos="pcle">miyâskam</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9215,7 +9215,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýo-</l>
+      <l pos="pcle">miyo-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -9227,7 +9227,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýo-</l>
+      <l pos="pcle">miyo-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -9239,7 +9239,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýo-kîkway</l>
+      <l pos="pcle">miyo-kîkway</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9251,7 +9251,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýoskamiki</l>
+      <l pos="pcle">miyoskamiki</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9263,7 +9263,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýoskamikohk</l>
+      <l pos="pcle">miyoskamikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9275,7 +9275,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýoskamîhk</l>
+      <l pos="pcle">miyoskamîhk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9287,7 +9287,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">miýwanohk</l>
+      <l pos="pcle">miywanohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -9743,7 +9743,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">môýa</l>
+      <l pos="pcle">môya</l>
       <lc>IPC ;; IPJ</lc>
    </lg>
    <mg>
@@ -9755,7 +9755,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">môýa ahpô</l>
+      <l pos="pcle">môya ahpô</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -9767,7 +9767,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">môýa cî</l>
+      <l pos="pcle">môya cî</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -9779,7 +9779,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">môýa nânitaw</l>
+      <l pos="pcle">môya nânitaw</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -9892,7 +9892,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">here! here it is, take it! [deictic; used in giving or handing an item to someone]</t>
+       <t pos="pcle">here here it is, take it [deictic; used in giving or handing an item to someone]</t>
    </tg>
    </mg>
 </e>
@@ -9947,7 +9947,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">nahiýikohk</l>
+      <l pos="pcle">nahiyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -10139,7 +10139,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa</l>
+      <l pos="pcle">namôya</l>
       <lc>IPC ;; IPJ</lc>
    </lg>
    <mg>
@@ -10151,7 +10151,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa ahpô</l>
+      <l pos="pcle">namôya ahpô</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10163,7 +10163,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa apisîs</l>
+      <l pos="pcle">namôya apisîs</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10175,7 +10175,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa cêskwa</l>
+      <l pos="pcle">namôya cêskwa</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10187,7 +10187,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa cî</l>
+      <l pos="pcle">namôya cî</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10199,7 +10199,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa êkwaýikohk</l>
+      <l pos="pcle">namôya êkwayikohk</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10211,7 +10211,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa kakêtihk</l>
+      <l pos="pcle">namôya kakêtihk</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10223,7 +10223,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa nânitaw</l>
+      <l pos="pcle">namôya nânitaw</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10235,7 +10235,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa nânitawitê</l>
+      <l pos="pcle">namôya nânitawitê</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10247,7 +10247,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa wiýa</l>
+      <l pos="pcle">namôya wiya</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10259,7 +10259,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namôýa wîhkâc</l>
+      <l pos="pcle">namôya wîhkâc</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10283,7 +10283,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">namwâc êkwaýikohk</l>
+      <l pos="pcle">namwâc êkwayikohk</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -10660,7 +10660,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">not so! [expression of disagreement]</t>
+       <t pos="pcle">not so [expression of disagreement]</t>
    </tg>
    </mg>
 </e>
@@ -10804,7 +10804,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh, sure, now he gets here!</t>
+       <t pos="pcle">oh, sure, now he gets here</t>
    </tg>
    </mg>
 </e>
@@ -11005,7 +11005,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">nêhiýaw-kîkway</l>
+      <l pos="pcle">nêhiyaw-kîkway</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -11017,7 +11017,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">nêhiýawi-</l>
+      <l pos="pcle">nêhiyawi-</l>
       <lc>IPN</lc>
    </lg>
    <mg>
@@ -11029,7 +11029,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">nêhiýawi-</l>
+      <l pos="pcle">nêhiyawi-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -11719,7 +11719,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">yeah, right! not by any chance; just in time</t>
+       <t pos="pcle">yeah, right not by any chance; just in time</t>
    </tg>
    </mg>
 </e>
@@ -11731,7 +11731,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">yeah, right! not by any chance</t>
+       <t pos="pcle">yeah, right not by any chance</t>
    </tg>
    </mg>
 </e>
@@ -11743,7 +11743,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">yeah, right! not by any chance</t>
+       <t pos="pcle">yeah, right not by any chance</t>
    </tg>
    </mg>
 </e>
@@ -11774,7 +11774,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">niýatowihk</l>
+      <l pos="pcle">niyatowihk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -11791,7 +11791,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">go ahead, go on, be off!</t>
+       <t pos="pcle">go ahead, go on, be off</t>
    </tg>
    </mg>
 </e>
@@ -11815,7 +11815,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">go ahead, go on, be off!</t>
+       <t pos="pcle">go ahead, go on, be off</t>
    </tg>
    </mg>
 </e>
@@ -12843,7 +12843,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">otâhk ispaýiw</l>
+      <l pos="pcle">otâhk ispayiw</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -12944,7 +12944,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh! [exclamation]</t>
+       <t pos="pcle">oh [exclamation]</t>
    </tg>
    </mg>
 </e>
@@ -12999,7 +12999,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ômaýikohk</l>
+      <l pos="pcle">ômayikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -13023,7 +13023,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ômêýikohk</l>
+      <l pos="pcle">ômêyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -13335,7 +13335,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">paýâk</l>
+      <l pos="pcle">payâk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -13635,7 +13635,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">pêyak-ispaýin</l>
+      <l pos="pcle">pêyak-ispayin</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -14031,7 +14031,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">piko iýikohk</l>
+      <l pos="pcle">piko iyikohk</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -14067,7 +14067,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">pikoýikohk</l>
+      <l pos="pcle">pikoyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -14331,7 +14331,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">piýis</l>
+      <l pos="pcle">piyis</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -14343,7 +14343,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">piýisk</l>
+      <l pos="pcle">piyisk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -14624,7 +14624,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">what was this! lo and behold! and here it was! then, as it turns out</t>
+       <t pos="pcle">what was this lo and behold and here it was then, as it turns out</t>
    </tg>
    </mg>
 </e>
@@ -14768,7 +14768,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">really!</t>
+       <t pos="pcle">really</t>
    </tg>
    </mg>
 </e>
@@ -15315,7 +15315,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tahki aýiwâk</l>
+      <l pos="pcle">tahki ayiwâk</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -15760,7 +15760,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tastawaýakap</l>
+      <l pos="pcle">tastawayakap</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -15772,7 +15772,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tastawaýas</l>
+      <l pos="pcle">tastawayas</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -15808,7 +15808,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tastawêýas</l>
+      <l pos="pcle">tastawêyas</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16048,7 +16048,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tânimaýikohk</l>
+      <l pos="pcle">tânimayikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16060,7 +16060,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tânimaýikohkêskamik</l>
+      <l pos="pcle">tânimayikohkêskamik</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16373,7 +16373,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tâniýiko</l>
+      <l pos="pcle">tâniyiko</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16385,7 +16385,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tâniýikohk</l>
+      <l pos="pcle">tâniyikohk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16505,7 +16505,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tâpwê wiýa</l>
+      <l pos="pcle">tâpwê wiya</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -16517,7 +16517,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tâpwê wiýa ani</l>
+      <l pos="pcle">tâpwê wiya ani</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -16649,7 +16649,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tâýispî</l>
+      <l pos="pcle">tâyispî</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16781,7 +16781,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">têpiýâhk</l>
+      <l pos="pcle">têpiyâhk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16937,7 +16937,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tipiýaw</l>
+      <l pos="pcle">tipiyaw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16949,7 +16949,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">tipiýawê</l>
+      <l pos="pcle">tipiyawê</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -16990,7 +16990,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh!</t>
+       <t pos="pcle">oh</t>
    </tg>
    </mg>
 </e>
@@ -17026,7 +17026,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">well; oh!</t>
+       <t pos="pcle">well; oh</t>
    </tg>
    </mg>
 </e>
@@ -17050,7 +17050,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh my! wow! good gracious; really; [emphatic:] so</t>
+       <t pos="pcle">oh my wow good gracious; really; [emphatic:] so</t>
    </tg>
    </mg>
 </e>
@@ -17178,7 +17178,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">waýawî-</l>
+      <l pos="pcle">wayawî-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -17190,7 +17190,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">waýawîtimihk</l>
+      <l pos="pcle">wayawîtimihk</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17303,7 +17303,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">oh! well!</t>
+       <t pos="pcle">oh well</t>
    </tg>
    </mg>
 </e>
@@ -17322,7 +17322,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wâh-wâhýaw</l>
+      <l pos="pcle">wâh-wâhyaw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17358,7 +17358,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wâhýaw</l>
+      <l pos="pcle">wâhyaw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17370,7 +17370,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wâhýawês</l>
+      <l pos="pcle">wâhyawês</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17382,7 +17382,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wâhýawêskamik</l>
+      <l pos="pcle">wâhyawêskamik</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17394,7 +17394,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wâhýawîs</l>
+      <l pos="pcle">wâhyawîs</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17567,7 +17567,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">well!</t>
+       <t pos="pcle">well</t>
    </tg>
    </mg>
 </e>
@@ -17706,7 +17706,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýa</l>
+      <l pos="pcle">wiya</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17718,7 +17718,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýa</l>
+      <l pos="pcle">wiya</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17730,7 +17730,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýa âta wiýa</l>
+      <l pos="pcle">wiya âta wiya</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -17754,7 +17754,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýaskoc</l>
+      <l pos="pcle">wiyaskoc</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17766,7 +17766,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýawâw</l>
+      <l pos="pcle">wiyawâw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17778,7 +17778,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýâ wîpac cî wiýa</l>
+      <l pos="pcle">wiyâ wîpac cî wiya</l>
       <lc>IPH</lc>
    </lg>
    <mg>
@@ -17790,7 +17790,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýâta</l>
+      <l pos="pcle">wiyâta</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -17814,7 +17814,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">wiýîpi-</l>
+      <l pos="pcle">wiyîpi-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -18018,7 +18018,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýahki-</l>
+      <l pos="pcle">yahki-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -18035,14 +18035,14 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">look out!</t>
+       <t pos="pcle">look out</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýâýaw</l>
+      <l pos="pcle">yâyaw</l>
       <lc>IPC</lc>
    </lg>
    <mg>
@@ -18054,19 +18054,19 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýâýâhk</l>
+      <l pos="pcle">yâyâhk</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">really!</t>
+       <t pos="pcle">really</t>
    </tg>
    </mg>
 </e>
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýâýâhk êsa ani</l>
+      <l pos="pcle">yâyâhk êsa ani</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
@@ -18078,7 +18078,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýâýâhk êtikwê</l>
+      <l pos="pcle">yâyâhk êtikwê</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
@@ -18090,7 +18090,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýâýâhk oti ani</l>
+      <l pos="pcle">yâyâhk oti ani</l>
       <lc>IPJ</lc>
    </lg>
    <mg>
@@ -18138,7 +18138,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýîpê-</l>
+      <l pos="pcle">yîpê-</l>
       <lc>IPV</lc>
    </lg>
    <mg>
@@ -18150,7 +18150,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="pcle">ýôski-</l>
+      <l pos="pcle">yôski-</l>
       <lc>IPV</lc>
    </lg>
    <mg>

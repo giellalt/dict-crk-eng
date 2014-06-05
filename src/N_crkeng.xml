@@ -283,7 +283,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ahpîhtipaýiwin</l>
+      <l pos="n">ahpîhtipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -1016,7 +1016,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">amiskowacîwiýiniwak</l>
+      <l pos="n">amiskowacîwiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -1040,7 +1040,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">amiskowiýiniw</l>
+      <l pos="n">amiskowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -1400,7 +1400,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">apihkêsîs-aýapiy</l>
+      <l pos="n">apihkêsîs-ayapiy</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -1604,7 +1604,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">apisciýinîs</l>
+      <l pos="n">apisciyinîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -2198,7 +2198,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">asinîskâwiýiniw</l>
+      <l pos="n">asinîskâwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -2272,7 +2272,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">asinîwipaýihcikan</l>
+      <l pos="n">asinîwipayihcikan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -2308,7 +2308,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">asinîwiýâkan</l>
+      <l pos="n">asinîwiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -2428,7 +2428,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">asiskîwiýâkan</l>
+      <l pos="n">asiskîwiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -2969,7 +2969,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aspêýimowin</l>
+      <l pos="n">aspêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -3042,7 +3042,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aspiýihkâsowin</l>
+      <l pos="n">aspiyihkâsowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -3271,7 +3271,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">atâmêýimowin</l>
+      <l pos="n">atâmêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -3379,7 +3379,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">atâwêwikamikowiýiniw</l>
+      <l pos="n">atâwêwikamikowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -3403,7 +3403,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">atâwêwiýiniw</l>
+      <l pos="n">atâwêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -3499,7 +3499,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">atimo-kisêýiniw</l>
+      <l pos="n">atimo-kisêyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -3691,7 +3691,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">atoskêýâkan</l>
+      <l pos="n">atoskêyâkan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -3703,7 +3703,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">atoskêýâkaniskwêw</l>
+      <l pos="n">atoskêyâkaniskwêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -3931,7 +3931,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ayahciýiniw</l>
+      <l pos="n">ayahciyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -3946,7 +3946,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ayahciýinîmowin</l>
+      <l pos="n">ayahciyinîmowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -3958,7 +3958,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ayahciýinînâhk</l>
+      <l pos="n">ayahciyinînâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -3970,7 +3970,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ayahciýinîwikimâw</l>
+      <l pos="n">ayahciyinîwikimâw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -3982,7 +3982,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýahikâkan</l>
+      <l pos="n">ayahikâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -3994,7 +3994,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýakaskêkin</l>
+      <l pos="n">ayakaskêkin</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -4006,7 +4006,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýakaskêyâpiy</l>
+      <l pos="n">ayakaskêyâpiy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -4018,7 +4018,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýakaski-mêskanaw</l>
+      <l pos="n">ayakaski-mêskanaw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -4030,7 +4030,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýakaskicihcân</l>
+      <l pos="n">ayakaskicihcân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -4235,7 +4235,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ayamihêwiýiniw</l>
+      <l pos="n">ayamihêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -4259,7 +4259,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýapacinâs</l>
+      <l pos="n">ayapacinâs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -4271,7 +4271,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýapiy</l>
+      <l pos="n">ayapiy</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -4283,7 +4283,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýapîhkêsiw</l>
+      <l pos="n">ayapîhkêsiw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -4295,7 +4295,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýapîhkêsîs</l>
+      <l pos="n">ayapîhkêsîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4307,7 +4307,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýapîhkwêpicikan</l>
+      <l pos="n">ayapîhkwêpicikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -4319,7 +4319,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýapîs</l>
+      <l pos="n">ayapîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4331,7 +4331,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýapîwasapâp</l>
+      <l pos="n">ayapîwasapâp</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4355,7 +4355,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýayihikan</l>
+      <l pos="n">ayayihikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -4499,7 +4499,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýisipiy</l>
+      <l pos="n">ayisipiy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -4511,7 +4511,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýisiýiniw</l>
+      <l pos="n">ayisiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -4523,7 +4523,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýisiýinîhkân</l>
+      <l pos="n">ayisiyinîhkân</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4535,7 +4535,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýisiýinîpan</l>
+      <l pos="n">ayisiyinîpan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4547,7 +4547,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýisiýinîsis</l>
+      <l pos="n">ayisiyinîsis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4559,7 +4559,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýisiýinîwiwin</l>
+      <l pos="n">ayisiyinîwiwin</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4619,7 +4619,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýîk</l>
+      <l pos="n">ayîk</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4631,7 +4631,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýîki-nônâcikan</l>
+      <l pos="n">ayîki-nônâcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -4644,7 +4644,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýîki-pîsim</l>
+      <l pos="n">ayîki-pîsim</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -4656,7 +4656,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýîkis</l>
+      <l pos="n">ayîkis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4668,7 +4668,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýîkisis</l>
+      <l pos="n">ayîkisis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4704,7 +4704,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýôminask</l>
+      <l pos="n">ayôminask</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -4716,7 +4716,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýôminâpoy</l>
+      <l pos="n">ayôminâpoy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -4728,7 +4728,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýôskan</l>
+      <l pos="n">ayôskan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -4740,7 +4740,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýôskanâhtik</l>
+      <l pos="n">ayôskanâhtik</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -4752,7 +4752,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">aýwêpiwin</l>
+      <l pos="n">aywêpiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -4944,7 +4944,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âhkamêýihtamowin</l>
+      <l pos="n">âhkamêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -4956,7 +4956,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âhkamêýimowin</l>
+      <l pos="n">âhkamêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -5028,7 +5028,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âhkikowiýin</l>
+      <l pos="n">âhkikowiyin</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -5256,7 +5256,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âkaýâsîmowin</l>
+      <l pos="n">âkayâsîmowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -5268,7 +5268,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âkaýâsîw</l>
+      <l pos="n">âkayâsîw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -5280,7 +5280,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âkaýâsîwi-ayamihêwiýiniw</l>
+      <l pos="n">âkayâsîwi-ayamihêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -5292,7 +5292,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âkaýâsîwiskwêw</l>
+      <l pos="n">âkayâsîwiskwêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -5304,7 +5304,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âkaýâsîwiýiniw</l>
+      <l pos="n">âkayâsîwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -5412,7 +5412,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âmow-piýêsîs</l>
+      <l pos="n">âmow-piyêsîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -6108,7 +6108,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âtaýôhkan</l>
+      <l pos="n">âtayôhkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6120,7 +6120,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âtaýôhkan</l>
+      <l pos="n">âtayôhkan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -6132,7 +6132,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âtaýôhkêwin</l>
+      <l pos="n">âtayôhkêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6216,7 +6216,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âýiman</l>
+      <l pos="n">âyiman</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6228,7 +6228,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âýimihtowin</l>
+      <l pos="n">âyimihtowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6240,7 +6240,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âýimisiwin</l>
+      <l pos="n">âyimisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6252,7 +6252,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âýimisîwatim</l>
+      <l pos="n">âyimisîwatim</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -6264,7 +6264,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âýimôhtowin</l>
+      <l pos="n">âyimôhtowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6276,7 +6276,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">âýimômitowin</l>
+      <l pos="n">âyimômitowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6312,7 +6312,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cahcahkâýow</l>
+      <l pos="n">cahcahkâyow</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -6324,7 +6324,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cahcahkâýôsis</l>
+      <l pos="n">cahcahkâyôsis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -6493,7 +6493,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">capahciýinîs</l>
+      <l pos="n">capahciyinîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -6541,12 +6541,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">câpân!</l>
+      <l pos="n">câpân</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">Great-Grandparent!; Great-Grandchild!</t>
+       <t pos="n">Great-Grandparent; Great-Grandchild</t>
    </tg>
    </mg>
 </e>
@@ -6637,7 +6637,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cihcipipaýîs</l>
+      <l pos="n">cihcipipayîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -6661,7 +6661,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cihcipistikwân-âtaýôhkêwin</l>
+      <l pos="n">cihcipistikwân-âtayôhkêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6721,7 +6721,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cikâscêpaýîs</l>
+      <l pos="n">cikâscêpayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6757,7 +6757,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cikâstêpaýihcikan</l>
+      <l pos="n">cikâstêpayihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -6889,7 +6889,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cîhkêýimowin</l>
+      <l pos="n">cîhkêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -7105,7 +7105,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">cîposcowiýâkanisîs</l>
+      <l pos="n">cîposcowiyâkanisîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -7599,7 +7599,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">êýik</l>
+      <l pos="n">êyik</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -7611,7 +7611,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">êýiko-wîsti</l>
+      <l pos="n">êyiko-wîsti</l>
       <lc>NI-4</lc>
    </lg>
    <mg>
@@ -7623,7 +7623,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">êýikos</l>
+      <l pos="n">êyikos</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -7827,7 +7827,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">isiýihkâsowin</l>
+      <l pos="n">isiyihkâsowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8368,7 +8368,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ispîhtêýihtâkosiwin</l>
+      <l pos="n">ispîhtêyihtâkosiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8572,7 +8572,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">itêýihcikan</l>
+      <l pos="n">itêyihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8584,7 +8584,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">itêýihtamowin</l>
+      <l pos="n">itêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8596,7 +8596,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">itêýihtâkan</l>
+      <l pos="n">itêyihtâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8608,7 +8608,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">itêýimisowin</l>
+      <l pos="n">itêyimisowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8752,7 +8752,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýikopiwi-pîsim</l>
+      <l pos="n">iyikopiwi-pîsim</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -8764,7 +8764,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinaskihk</l>
+      <l pos="n">iyinaskihk</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -8776,7 +8776,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinâhtik</l>
+      <l pos="n">iyinâhtik</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -8788,7 +8788,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýini-kinosêw</l>
+      <l pos="n">iyini-kinosêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -8800,7 +8800,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinico-pimîs</l>
+      <l pos="n">iyinico-pimîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8812,7 +8812,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinihkêwin</l>
+      <l pos="n">iyinihkêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8824,7 +8824,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinimin</l>
+      <l pos="n">iyinimin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8836,7 +8836,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinisip</l>
+      <l pos="n">iyinisip</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -8848,7 +8848,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinisipis</l>
+      <l pos="n">iyinisipis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -8860,7 +8860,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinito-kinosêw</l>
+      <l pos="n">iyinito-kinosêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -8872,7 +8872,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinito-pimiy</l>
+      <l pos="n">iyinito-pimiy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -8884,7 +8884,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinitôskâtâsk</l>
+      <l pos="n">iyinitôskâtâsk</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -8896,7 +8896,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýiniw</l>
+      <l pos="n">iyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -8908,7 +8908,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýiniwacis</l>
+      <l pos="n">iyiniwacis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -8920,7 +8920,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinîhkân</l>
+      <l pos="n">iyinîhkân</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -8932,7 +8932,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinîsiwin</l>
+      <l pos="n">iyinîsiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8944,7 +8944,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýinîwistikwân</l>
+      <l pos="n">iyinîwistikwân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -8956,7 +8956,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýipahtâwatim</l>
+      <l pos="n">iyipahtâwatim</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -8992,7 +8992,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">iýîpêhcâw</l>
+      <l pos="n">iyîpêhcâw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -9161,7 +9161,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kakwâtakêýimowin</l>
+      <l pos="n">kakwâtakêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -9245,7 +9245,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kanawêýihtahikêw</l>
+      <l pos="n">kanawêyihtahikêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -9257,7 +9257,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kanawêýimiskwêwêwin</l>
+      <l pos="n">kanawêyimiskwêwêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -9293,7 +9293,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kanâtêýihtamowin</l>
+      <l pos="n">kanâtêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -9474,7 +9474,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kaskêýihtamowin</l>
+      <l pos="n">kaskêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -9486,7 +9486,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kaskicêwâýowês</l>
+      <l pos="n">kaskicêwâyowês</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -9558,7 +9558,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kaskikwâsopaýihcikanis</l>
+      <l pos="n">kaskikwâsopayihcikanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -9570,7 +9570,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kaskikwâsopaýîs</l>
+      <l pos="n">kaskikwâsopayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -9811,7 +9811,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kaskitêwaýasit</l>
+      <l pos="n">kaskitêwayasit</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -10172,7 +10172,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-âýimahk</l>
+      <l pos="n">kâ-âyimahk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -10244,7 +10244,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-mâýahkamikahk</l>
+      <l pos="n">kâ-mâyahkamikahk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -10280,7 +10280,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-miýosicik kinosêwak</l>
+      <l pos="n">kâ-miyosicik kinosêwak</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -10292,7 +10292,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-miýosisicik kinosêwak sâkahikan</l>
+      <l pos="n">kâ-miyosisicik kinosêwak sâkahikan</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -10316,7 +10316,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-nêhiýawêsicik</l>
+      <l pos="n">kâ-nêhiyawêsicik</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -10328,7 +10328,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-nihcâwâhcawêpaýîsis</l>
+      <l pos="n">kâ-nihcâwâhcawêpayîsis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -10508,7 +10508,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-têpwêwisîpîwiýiniwak</l>
+      <l pos="n">kâ-têpwêwisîpîwiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -10520,7 +10520,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâ-tipêýihcikêt</l>
+      <l pos="n">kâ-tipêyihcikêt</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -10604,7 +10604,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâhkâkiwaciýiniw</l>
+      <l pos="n">kâhkâkiwaciyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -10712,7 +10712,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâhkwêýihtamowin</l>
+      <l pos="n">kâhkwêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -10856,7 +10856,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâsîhiýâkanâpoy</l>
+      <l pos="n">kâsîhiyâkanâpoy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -10904,7 +10904,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâsîhkwêwiýâkan</l>
+      <l pos="n">kâsîhkwêwiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -10916,7 +10916,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kâsîýâkanêwiýâkan</l>
+      <l pos="n">kâsîyâkanêwiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -11156,7 +11156,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kêhtêýiniw</l>
+      <l pos="n">kêhtêyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -11264,7 +11264,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kihcêýiniw</l>
+      <l pos="n">kihcêyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -11288,7 +11288,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kihci-atâwêwikamikowiýiniw</l>
+      <l pos="n">kihci-atâwêwikamikowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -11324,7 +11324,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kihci-ayamihêwiýiniw</l>
+      <l pos="n">kihci-ayamihêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -11336,7 +11336,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kihci-aýisiýiniw</l>
+      <l pos="n">kihci-ayisiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -11649,7 +11649,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kihci-oýâkan</l>
+      <l pos="n">kihci-oyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -11770,7 +11770,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kihcikamîwiýin</l>
+      <l pos="n">kihcikamîwiyin</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -11794,7 +11794,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kihciýiniw</l>
+      <l pos="n">kihciyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -12034,7 +12034,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kinêpikowiýiniw</l>
+      <l pos="n">kinêpikowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -12046,7 +12046,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kinêpikoýiniw</l>
+      <l pos="n">kinêpikoyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -12442,7 +12442,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kipihcipaýiwin</l>
+      <l pos="n">kipihcipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -12574,7 +12574,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kiscikêpaýîs</l>
+      <l pos="n">kiscikêpayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -12586,7 +12586,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisciýiniw</l>
+      <l pos="n">kisciyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -12682,7 +12682,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisêýiniw</l>
+      <l pos="n">kisêyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -12694,7 +12694,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisêýinîpan</l>
+      <l pos="n">kisêyinîpan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -12706,7 +12706,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisêýinîsis</l>
+      <l pos="n">kisêyinîsis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -12718,7 +12718,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisêýinîwatim</l>
+      <l pos="n">kisêyinîwatim</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -12730,7 +12730,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisêýinîwânês</l>
+      <l pos="n">kisêyinîwânês</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -12766,7 +12766,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisipaýiwin</l>
+      <l pos="n">kisipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -12898,7 +12898,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisîpêkinikêpaýîs</l>
+      <l pos="n">kisîpêkinikêpayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -12946,7 +12946,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kisîpêkiýâkanikan</l>
+      <l pos="n">kisîpêkiyâkanikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -12994,7 +12994,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kiskêýihtamowin</l>
+      <l pos="n">kiskêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13006,7 +13006,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kiskêýimisowin</l>
+      <l pos="n">kiskêyimisowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13282,7 +13282,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kiskisopaýiwin</l>
+      <l pos="n">kiskisopayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13414,7 +13414,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kistêýimowin</l>
+      <l pos="n">kistêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13498,7 +13498,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kistikêwiýiniw</l>
+      <l pos="n">kistikêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -13558,7 +13558,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kitimâkêýihcikêwin</l>
+      <l pos="n">kitimâkêyihcikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13570,7 +13570,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kitimâkêýihtowin</l>
+      <l pos="n">kitimâkêyihtowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13582,7 +13582,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kitimâkêýimisowin</l>
+      <l pos="n">kitimâkêyimisowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13594,7 +13594,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kitimâkêýimowin</l>
+      <l pos="n">kitimâkêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13642,7 +13642,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kitimâkiýiniw</l>
+      <l pos="n">kitimâkiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -13774,7 +13774,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kiýakisiwin</l>
+      <l pos="n">kiyakisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13822,7 +13822,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kiýâskiwin</l>
+      <l pos="n">kiyâskiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -13834,7 +13834,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kiýâskîmowin</l>
+      <l pos="n">kiyâskîmowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -14086,7 +14086,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kînikwâýowêwisip</l>
+      <l pos="n">kînikwâyowêwisip</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -14159,7 +14159,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kîsinâtêýihtamowin</l>
+      <l pos="n">kîsinâtêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -14171,7 +14171,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kîsipaýiwin</l>
+      <l pos="n">kîsipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -14556,7 +14556,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kîskwêpêwiýiniw</l>
+      <l pos="n">kîskwêpêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -14712,7 +14712,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kîwâtêýimowin</l>
+      <l pos="n">kîwâtêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -14748,7 +14748,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kîwêtinôtâwiýiniw</l>
+      <l pos="n">kîwêtinôtâwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -14808,7 +14808,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kohcipaýihcikanêyâpiy</l>
+      <l pos="n">kohcipayihcikanêyâpiy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -14916,7 +14916,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kohkôsiwiýin</l>
+      <l pos="n">kohkôsiwiyin</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -14928,7 +14928,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kohkôsiýâkan</l>
+      <l pos="n">kohkôsiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -15024,7 +15024,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kosâpahcikêwiýiniw</l>
+      <l pos="n">kosâpahcikêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -15241,12 +15241,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kôkom!</l>
+      <l pos="n">kôkom</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">Grandma!</t>
+       <t pos="n">Grandma</t>
    </tg>
    </mg>
 </e>
@@ -15565,7 +15565,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">kwêtawitêýihtamowin</l>
+      <l pos="n">kwêtawitêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -15721,7 +15721,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">macêýihtamowin</l>
+      <l pos="n">macêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -15745,7 +15745,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maci-aýisiýiniw</l>
+      <l pos="n">maci-ayisiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -15769,7 +15769,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maci-itêýihtamowin</l>
+      <l pos="n">maci-itêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -15817,7 +15817,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maci-manitowêýihcikan</l>
+      <l pos="n">maci-manitowêyihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -15853,7 +15853,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maci-mâmitonêýihcikan</l>
+      <l pos="n">maci-mâmitonêyihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -15985,7 +15985,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">macipaýiwin</l>
+      <l pos="n">macipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -16888,7 +16888,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">masinahikaniwiýiniw</l>
+      <l pos="n">masinahikaniwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -16950,7 +16950,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">masinahikêwiýiniw</l>
+      <l pos="n">masinahikêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -16999,7 +16999,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">masinipaýiwin</l>
+      <l pos="n">masinipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -17299,7 +17299,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maskêkowiýiniw</l>
+      <l pos="n">maskêkowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -17433,7 +17433,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maskihkîwiýiniw</l>
+      <l pos="n">maskihkîwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -17712,7 +17712,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maskotêwiýiniw</l>
+      <l pos="n">maskotêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -17964,7 +17964,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">maýakask</l>
+      <l pos="n">mayakask</l>
       <lc>NDI-3</lc>
    </lg>
    <mg>
@@ -17976,7 +17976,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâcipaýiwin</l>
+      <l pos="n">mâcipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18206,7 +18206,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâkwêýimowin</l>
+      <l pos="n">mâkwêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18230,7 +18230,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâmaskâtêýihtamowin</l>
+      <l pos="n">mâmaskâtêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18290,7 +18290,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâmawipaýiwin</l>
+      <l pos="n">mâmawipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18338,7 +18338,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâmihkiýiniwak</l>
+      <l pos="n">mâmihkiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -18350,7 +18350,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâmitonêýihcikan</l>
+      <l pos="n">mâmitonêyihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18362,7 +18362,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâmitonêýihtamowin</l>
+      <l pos="n">mâmitonêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18566,7 +18566,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâskipaýiwin</l>
+      <l pos="n">mâskipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18698,7 +18698,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýacihkos</l>
+      <l pos="n">mâyacihkos</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -18710,7 +18710,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýacihkwayân</l>
+      <l pos="n">mâyacihkwayân</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -18722,7 +18722,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýacihkwayânasâkay</l>
+      <l pos="n">mâyacihkwayânasâkay</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -18734,7 +18734,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýamêk</l>
+      <l pos="n">mâyamêk</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -18746,7 +18746,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýatihk</l>
+      <l pos="n">mâyatihk</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -18758,7 +18758,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýatihkokamik</l>
+      <l pos="n">mâyatihkokamik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -18770,7 +18770,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýatihkopîway</l>
+      <l pos="n">mâyatihkopîway</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -18782,7 +18782,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýatihkowiyâs</l>
+      <l pos="n">mâyatihkowiyâs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18794,7 +18794,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýâcimowin</l>
+      <l pos="n">mâyâcimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18806,7 +18806,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýâtis</l>
+      <l pos="n">mâyâtis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -18818,7 +18818,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýâtisiwin</l>
+      <l pos="n">mâyâtisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18830,7 +18830,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýêýihcikêwin</l>
+      <l pos="n">mâyêyihcikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18842,7 +18842,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýêýihtâkosiwin</l>
+      <l pos="n">mâyêyihtâkosiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18854,7 +18854,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýêýihtowin</l>
+      <l pos="n">mâyêyihtowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18866,7 +18866,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýi-kîkway</l>
+      <l pos="n">mâyi-kîkway</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -18878,7 +18878,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýi-mîtos</l>
+      <l pos="n">mâyi-mîtos</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -18890,7 +18890,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýikwâsowin</l>
+      <l pos="n">mâyikwâsowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18902,7 +18902,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýinikêwin</l>
+      <l pos="n">mâyinikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18914,7 +18914,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýipaýiwin</l>
+      <l pos="n">mâyipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -18926,7 +18926,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýiskwêsisâhtik</l>
+      <l pos="n">mâyiskwêsisâhtik</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -18938,7 +18938,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mâýispwâkan</l>
+      <l pos="n">mâyispwâkan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -19864,7 +19864,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mihkowiýiniw</l>
+      <l pos="n">mihkowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -20176,7 +20176,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mihýawêsâkay</l>
+      <l pos="n">mihyawêsâkay</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -20188,7 +20188,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mihýawêstis</l>
+      <l pos="n">mihyawêstis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -20200,7 +20200,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mihýawêstotin</l>
+      <l pos="n">mihyawêstotin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -20212,7 +20212,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mihýawêýiniw</l>
+      <l pos="n">mihyawêyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -20332,7 +20332,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mikoskâtêýihtamowin</l>
+      <l pos="n">mikoskâtêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -20560,7 +20560,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">minihkwêwiýâkanis</l>
+      <l pos="n">minihkwêwiyâkanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -21269,7 +21269,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">misiwêpaýihcikan</l>
+      <l pos="n">misiwêpayihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -21281,7 +21281,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">misiwêpaýihcikanis</l>
+      <l pos="n">misiwêpayihcikanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -21966,7 +21966,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mistâkaýâsiw</l>
+      <l pos="n">mistâkayâsiw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -22243,7 +22243,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mistikoýâkan</l>
+      <l pos="n">mistikoyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -22423,7 +22423,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mistiýâkan</l>
+      <l pos="n">mistiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -22663,7 +22663,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mitêýaniy</l>
+      <l pos="n">mitêyaniy</l>
       <lc>NDI-2</lc>
    </lg>
    <mg>
@@ -22675,7 +22675,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mitêýaniyâpiy</l>
+      <l pos="n">mitêyaniyâpiy</l>
       <lc>NDI-2</lc>
    </lg>
    <mg>
@@ -22687,7 +22687,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mitêýikom</l>
+      <l pos="n">mitêyikom</l>
       <lc>NDI-1</lc>
    </lg>
    <mg>
@@ -22891,7 +22891,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mitonêýihcikan</l>
+      <l pos="n">mitonêyihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -22927,7 +22927,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýahciwânâna</l>
+      <l pos="n">miyahciwânâna</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -22951,7 +22951,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýawâtamowin</l>
+      <l pos="n">miyawâtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -22963,7 +22963,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýay</l>
+      <l pos="n">miyay</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -22975,7 +22975,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýâhcikan</l>
+      <l pos="n">miyâhcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -22987,7 +22987,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýâhkasikan</l>
+      <l pos="n">miyâhkasikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -22999,7 +22999,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýâhkohkasikan</l>
+      <l pos="n">miyâhkohkasikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23011,7 +23011,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýâkohon</l>
+      <l pos="n">miyâkohon</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23023,7 +23023,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýêsâpiwinân</l>
+      <l pos="n">miyêsâpiwinân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23035,7 +23035,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýêstawân</l>
+      <l pos="n">miyêstawân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23047,7 +23047,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýi</l>
+      <l pos="n">miyi</l>
       <lc>NI-4</lc>
    </lg>
    <mg>
@@ -23059,7 +23059,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýikosiwin</l>
+      <l pos="n">miyikosiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23071,7 +23071,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýikowisiwin</l>
+      <l pos="n">miyikowisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23083,7 +23083,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýimâwahcâw</l>
+      <l pos="n">miyimâwahcâw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -23095,7 +23095,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýitowin</l>
+      <l pos="n">miyitowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23107,7 +23107,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýiwin</l>
+      <l pos="n">miyiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23119,7 +23119,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-atoskêwin</l>
+      <l pos="n">miyo-atoskêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23131,7 +23131,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-âcimowin</l>
+      <l pos="n">miyo-âcimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23143,7 +23143,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-isiwêpisiwin</l>
+      <l pos="n">miyo-isiwêpisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23155,7 +23155,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-isîhcikêwin</l>
+      <l pos="n">miyo-isîhcikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23167,7 +23167,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-kakêskihkêmowin</l>
+      <l pos="n">miyo-kakêskihkêmowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23179,7 +23179,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-kanawâpamikowisiwin</l>
+      <l pos="n">miyo-kanawâpamikowisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23191,7 +23191,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-nâpêw</l>
+      <l pos="n">miyo-nâpêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -23203,7 +23203,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-ohpikihâwasowin</l>
+      <l pos="n">miyo-ohpikihâwasowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23215,7 +23215,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-pimâtisiwin</l>
+      <l pos="n">miyo-pimâtisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23227,7 +23227,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-pîkiskwêwin</l>
+      <l pos="n">miyo-pîkiskwêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23239,7 +23239,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-tôtamowin</l>
+      <l pos="n">miyo-tôtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23251,7 +23251,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-tôtâkêwin</l>
+      <l pos="n">miyo-tôtâkêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23263,7 +23263,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýo-wîcêhtowin</l>
+      <l pos="n">miyo-wîcêhtowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23275,7 +23275,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýohkwêwin</l>
+      <l pos="n">miyohkwêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23287,7 +23287,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýohowin</l>
+      <l pos="n">miyohowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23299,7 +23299,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýohtwâwin</l>
+      <l pos="n">miyohtwâwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23311,7 +23311,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýokosisân</l>
+      <l pos="n">miyokosisân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23323,7 +23323,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýomahcihowin</l>
+      <l pos="n">miyomahcihowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23335,7 +23335,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýonâkosiwin</l>
+      <l pos="n">miyonâkosiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23347,7 +23347,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýopaýiwin</l>
+      <l pos="n">miyopayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23359,7 +23359,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýosiwin</l>
+      <l pos="n">miyosiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23371,7 +23371,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýoskamikâw</l>
+      <l pos="n">miyoskamikâw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -23383,7 +23383,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýoskaminowi-pîsimwak</l>
+      <l pos="n">miyoskaminowi-pîsimwak</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -23395,7 +23395,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýoskamiw</l>
+      <l pos="n">miyoskamiw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -23407,7 +23407,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýoskwêw</l>
+      <l pos="n">miyoskwêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -23419,7 +23419,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýotêhêwin</l>
+      <l pos="n">miyotêhêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23431,7 +23431,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýw-âyâwin</l>
+      <l pos="n">miyw-âyâwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23443,7 +23443,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwasinahikêwin</l>
+      <l pos="n">miywasinahikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23455,7 +23455,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwatoskêwin</l>
+      <l pos="n">miywatoskêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23467,7 +23467,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwâcimowin</l>
+      <l pos="n">miywâcimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23479,7 +23479,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwâhtik</l>
+      <l pos="n">miywâhtik</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -23491,7 +23491,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwâpin</l>
+      <l pos="n">miywâpin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23503,7 +23503,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwâsin</l>
+      <l pos="n">miywâsin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23515,7 +23515,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwâtamowin</l>
+      <l pos="n">miywâtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23527,7 +23527,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwâtisiwin</l>
+      <l pos="n">miywâtisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23539,7 +23539,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwêýihtamowin</l>
+      <l pos="n">miywêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23551,7 +23551,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">miýwêýimowin</l>
+      <l pos="n">miywêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -23959,7 +23959,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mîkisiýâkan</l>
+      <l pos="n">mîkisiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -24283,7 +24283,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mîsîwoýâkan</l>
+      <l pos="n">mîsîwoyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -24391,7 +24391,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mohýâpiciskân</l>
+      <l pos="n">mohyâpiciskân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -24403,7 +24403,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">mohýâpitasêkan</l>
+      <l pos="n">mohyâpitasêkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -24931,7 +24931,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">môniyâw-iýiniw</l>
+      <l pos="n">môniyâw-iyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -24943,7 +24943,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">môniyâw-kiskêýihtamowin</l>
+      <l pos="n">môniyâw-kiskêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -25135,12 +25135,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">môsom!</l>
+      <l pos="n">môsom</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">Grandpa!</t>
+       <t pos="n">Grandpa</t>
    </tg>
    </mg>
 </e>
@@ -25387,7 +25387,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nahêýihtamowin</l>
+      <l pos="n">nahêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -25399,7 +25399,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nahêýihtowin</l>
+      <l pos="n">nahêyihtowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -25447,7 +25447,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nahkawiýiniw</l>
+      <l pos="n">nahkawiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -25459,7 +25459,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nahkawiýinînâhk</l>
+      <l pos="n">nahkawiyinînâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -25471,7 +25471,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nahkawiýinîs</l>
+      <l pos="n">nahkawiyinîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -25688,7 +25688,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">namahcîwiýiniw</l>
+      <l pos="n">namahcîwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -25760,7 +25760,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">namêpiý</l>
+      <l pos="n">namêpiy</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -25880,7 +25880,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nanamipaýîs</l>
+      <l pos="n">nanamipayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -25904,7 +25904,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nanayêhtâwipaýiwin</l>
+      <l pos="n">nanayêhtâwipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26168,7 +26168,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">napakiýâkan</l>
+      <l pos="n">napakiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26180,7 +26180,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">napakiýâkanis</l>
+      <l pos="n">napakiyâkanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26384,7 +26384,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">natimîwiýiniwak</l>
+      <l pos="n">natimîwiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -26396,7 +26396,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">natopaýiwin</l>
+      <l pos="n">natopayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26504,7 +26504,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">naýakask</l>
+      <l pos="n">nayakask</l>
       <lc>NDI-3</lc>
    </lg>
    <mg>
@@ -26540,7 +26540,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nâpê-atoskêýâkan</l>
+      <l pos="n">nâpê-atoskêyâkan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -26831,7 +26831,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw</l>
+      <l pos="n">nêhiyaw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -26843,7 +26843,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-askiy</l>
+      <l pos="n">nêhiyaw-askiy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -26855,7 +26855,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-askîhk</l>
+      <l pos="n">nêhiyaw-askîhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -26867,7 +26867,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-aýisiýiniw</l>
+      <l pos="n">nêhiyaw-ayisiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -26879,7 +26879,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-isîhcikêwin</l>
+      <l pos="n">nêhiyaw-isîhcikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26891,7 +26891,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-iskonikan</l>
+      <l pos="n">nêhiyaw-iskonikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26903,7 +26903,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-iskwêsis</l>
+      <l pos="n">nêhiyaw-iskwêsis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -26915,7 +26915,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-iskwêw</l>
+      <l pos="n">nêhiyaw-iskwêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -26927,7 +26927,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-masinîwin</l>
+      <l pos="n">nêhiyaw-masinîwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26939,7 +26939,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-maskihkiy</l>
+      <l pos="n">nêhiyaw-maskihkiy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -26951,7 +26951,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-mawimoscikêwin</l>
+      <l pos="n">nêhiyaw-mawimoscikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26963,7 +26963,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-nitotamâwin</l>
+      <l pos="n">nêhiyaw-nitotamâwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26975,7 +26975,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýaw-wapâsihk</l>
+      <l pos="n">nêhiyaw-wapâsihk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -26987,7 +26987,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawascikêwin</l>
+      <l pos="n">nêhiyawascikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -26999,7 +26999,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawasinahikêwin</l>
+      <l pos="n">nêhiyawasinahikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -27011,7 +27011,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawêwin</l>
+      <l pos="n">nêhiyawêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -27023,7 +27023,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawi-wîhowin</l>
+      <l pos="n">nêhiyawi-wîhowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -27035,7 +27035,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawipwâtak</l>
+      <l pos="n">nêhiyawipwâtak</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -27047,7 +27047,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawipwâtinâhk</l>
+      <l pos="n">nêhiyawipwâtinâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -27059,7 +27059,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawîhcikêwin</l>
+      <l pos="n">nêhiyawîhcikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -27071,7 +27071,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýawîhtwâwin</l>
+      <l pos="n">nêhiyawîhtwâwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -27083,7 +27083,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýânâhk</l>
+      <l pos="n">nêhiyânâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -27095,7 +27095,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýâsis</l>
+      <l pos="n">nêhiyâsis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -27107,7 +27107,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêhiýâwiwin</l>
+      <l pos="n">nêhiyâwiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -27119,12 +27119,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêkâ!</l>
+      <l pos="n">nêkâ</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">mother!</t>
+       <t pos="n">mother</t>
    </tg>
    </mg>
 </e>
@@ -27251,7 +27251,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nêwokâciwêpaýîs</l>
+      <l pos="n">nêwokâciwêpayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -27323,12 +27323,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nicâhkosê!</l>
+      <l pos="n">nicâhkosê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">female cross-cousin!; sister-in-law! [used by female speaker only]</t>
+       <t pos="n">female cross-cousin; sister-in-law [used by female speaker only]</t>
    </tg>
    </mg>
 </e>
@@ -27570,12 +27570,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">niciwâ!</l>
+      <l pos="n">niciwâ</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">brother!; male parallel cousin!; friend!; rival!</t>
+       <t pos="n">brother; male parallel cousin; friend; rival</t>
    </tg>
    </mg>
 </e>
@@ -27786,7 +27786,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nihtâwikihcikêwiýiniw</l>
+      <l pos="n">nihtâwikihcikêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -27906,12 +27906,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nikâ!</l>
+      <l pos="n">nikâ</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">mother!</t>
+       <t pos="n">mother</t>
    </tg>
    </mg>
 </e>
@@ -28002,7 +28002,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nikisêýinîm</l>
+      <l pos="n">nikisêyinîm</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
@@ -28122,12 +28122,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nikosê!</l>
+      <l pos="n">nikosê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">son!</t>
+       <t pos="n">son</t>
    </tg>
    </mg>
 </e>
@@ -28242,12 +28242,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nikwêmê!</l>
+      <l pos="n">nikwêmê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">namesake! [kinship term: addressing one whom you are named after, one who is named after you, or simply one who shares the same name]</t>
+       <t pos="n">namesake [kinship term: addressing one whom you are named after, one who is named after you, or simply one who shares the same name]</t>
    </tg>
    </mg>
 </e>
@@ -28314,12 +28314,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nimisê!</l>
+      <l pos="n">nimisê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">older sister!</t>
+       <t pos="n">older sister</t>
    </tg>
    </mg>
 </e>
@@ -28339,7 +28339,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nimiýêsâpiwinân</l>
+      <l pos="n">nimiyêsâpiwinân</l>
       <lc>NDI-1</lc>
    </lg>
    <mg>
@@ -28351,7 +28351,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nimiýêsâpiwinânis</l>
+      <l pos="n">nimiyêsâpiwinânis</l>
       <lc>NDI-1</lc>
    </lg>
    <mg>
@@ -28387,12 +28387,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nimosô!</l>
+      <l pos="n">nimosô</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">grandfather!</t>
+       <t pos="n">grandfather</t>
    </tg>
    </mg>
 </e>
@@ -28905,12 +28905,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nisikosê!</l>
+      <l pos="n">nisikosê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">aunt!, cross-aunt!; father's sister!, mother's brother's wife!; mother-in-law!</t>
+       <t pos="n">aunt, cross-aunt; father's sister, mother's brother's wife; mother-in-law</t>
    </tg>
    </mg>
 </e>
@@ -28941,12 +28941,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nisisê!</l>
+      <l pos="n">nisisê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">uncle!, cross-uncle!; mother's brother!, father's sister's husband!; father-in-law!</t>
+       <t pos="n">uncle, cross-uncle; mother's brother, father's sister's husband; father-in-law</t>
    </tg>
    </mg>
 </e>
@@ -28989,12 +28989,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nisîmê!</l>
+      <l pos="n">nisîmê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">younger sibling!</t>
+       <t pos="n">younger sibling</t>
    </tg>
    </mg>
 </e>
@@ -29458,12 +29458,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nistêsê!</l>
+      <l pos="n">nistêsê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">older brother!</t>
+       <t pos="n">older brother</t>
    </tg>
    </mg>
 </e>
@@ -29665,12 +29665,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitawêmâ!</l>
+      <l pos="n">nitawêmâ</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">cross-sibling! [male speaker:] sister! female parallel cousin!; [female speaker:] brother! male parallel cousin!</t>
+       <t pos="n">cross-sibling [male speaker:] sister female parallel cousin; [female speaker:] brother male parallel cousin</t>
    </tg>
    </mg>
 </e>
@@ -29689,7 +29689,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitaýisiýinîm</l>
+      <l pos="n">nitayisiyinîm</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
@@ -29763,12 +29763,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitân!</l>
+      <l pos="n">nitân</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">daughter!</t>
+       <t pos="n">daughter</t>
    </tg>
    </mg>
 </e>
@@ -29859,7 +29859,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitêýaniy</l>
+      <l pos="n">nitêyaniy</l>
       <lc>NDI-2</lc>
    </lg>
    <mg>
@@ -29871,7 +29871,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitêýaniyâpiy</l>
+      <l pos="n">nitêyaniyâpiy</l>
       <lc>NDI-2</lc>
    </lg>
    <mg>
@@ -29883,7 +29883,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitêýikom</l>
+      <l pos="n">nitêyikom</l>
       <lc>NDI-1</lc>
    </lg>
    <mg>
@@ -29921,12 +29921,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitihkwâ!</l>
+      <l pos="n">nitihkwâ</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">nephew!, cross-nephew!; son-in-law!</t>
+       <t pos="n">nephew, cross-nephew; son-in-law</t>
    </tg>
    </mg>
 </e>
@@ -30077,7 +30077,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitiýinîmak</l>
+      <l pos="n">nitiyinîmak</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
@@ -30149,7 +30149,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nitopaýiwin</l>
+      <l pos="n">nitopayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -30369,7 +30369,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">niwiýihkosak</l>
+      <l pos="n">niwiyihkosak</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
@@ -30381,7 +30381,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">niwiýihkwak</l>
+      <l pos="n">niwiyihkwak</l>
       <lc>NDA-3</lc>
    </lg>
    <mg>
@@ -30453,7 +30453,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">niýihkos</l>
+      <l pos="n">niyihkos</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
@@ -30465,7 +30465,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">niýihkwak</l>
+      <l pos="n">niyihkwak</l>
       <lc>NDA-3</lc>
    </lg>
    <mg>
@@ -30513,7 +30513,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîci-aýisiýiniw</l>
+      <l pos="n">nîci-ayisiyiniw</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
@@ -30525,7 +30525,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîci-aýisiýinîm</l>
+      <l pos="n">nîci-ayisiyinîm</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
@@ -30537,7 +30537,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîci-kisêýiniw</l>
+      <l pos="n">nîci-kisêyiniw</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
@@ -30549,7 +30549,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîci-kisêýin!</l>
+      <l pos="n">nîci-kisêyin</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
@@ -30609,7 +30609,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîci-nêhiýaw</l>
+      <l pos="n">nîci-nêhiyaw</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
@@ -30897,7 +30897,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîpâmâýâtastotin</l>
+      <l pos="n">nîpâmâyâtastotin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -31029,7 +31029,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîpisîhkopâwiýiniw</l>
+      <l pos="n">nîpisîhkopâwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -31041,7 +31041,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nîpisîhkopâwiýinînâhk</l>
+      <l pos="n">nîpisîhkopâwiyinînâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -31441,7 +31441,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nôcikinosêwiýiniw</l>
+      <l pos="n">nôcikinosêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -31537,12 +31537,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nôhkô!</l>
+      <l pos="n">nôhkô</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">grandmother!</t>
+       <t pos="n">grandmother</t>
    </tg>
    </mg>
 </e>
@@ -31598,13 +31598,13 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nôhtâ!</l>
+      <l pos="n">nôhtâ</l>
       <lc>NDA-2</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">father!</t>
-       <t pos="n">[Christian:] Heavenly Father!</t>
+       <t pos="n">father</t>
+       <t pos="n">[Christian:] Heavenly Father</t>
    </tg>
    </mg>
 </e>
@@ -31803,12 +31803,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nôsisê!</l>
+      <l pos="n">nôsisê</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">grandchild!</t>
+       <t pos="n">grandchild</t>
    </tg>
    </mg>
 </e>
@@ -31863,7 +31863,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">nôtinikêwiýiniw</l>
+      <l pos="n">nôtinikêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -32728,7 +32728,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ohtêýihtamowin</l>
+      <l pos="n">ohtêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -32812,7 +32812,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okakiýâskisk</l>
+      <l pos="n">okakiyâskisk</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -32824,7 +32824,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okakiýâskiwâcimon</l>
+      <l pos="n">okakiyâskiwâcimon</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -32860,7 +32860,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okanawêýihcikêw</l>
+      <l pos="n">okanawêyihcikêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -32872,7 +32872,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okanawêýimatihkowêw</l>
+      <l pos="n">okanawêyimatihkowêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -32884,7 +32884,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okanawêýimâwasow</l>
+      <l pos="n">okanawêyimâwasow</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -32896,7 +32896,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okanawêýimâýatihkwêw</l>
+      <l pos="n">okanawêyimâyatihkwêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -32908,7 +32908,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okanawêýimostosowêw</l>
+      <l pos="n">okanawêyimostosowêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -32920,7 +32920,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okanawêýiskwâhtêmiwêw</l>
+      <l pos="n">okanawêyiskwâhtêmiwêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -33160,7 +33160,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okihtimiwiýiniw</l>
+      <l pos="n">okihtimiwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -33585,7 +33585,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okistikêwiýiniw</l>
+      <l pos="n">okistikêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -33597,7 +33597,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okistikêwiýinîwin</l>
+      <l pos="n">okistikêwiyinîwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -33957,7 +33957,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">okwâskwêpaýihôs</l>
+      <l pos="n">okwâskwêpayihôs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -34269,7 +34269,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">omikiýiniw</l>
+      <l pos="n">omikiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -34546,7 +34546,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">onihcâwâhcawêpaýihosîs</l>
+      <l pos="n">onihcâwâhcawêpayihosîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -34642,7 +34642,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">onitopaýiw</l>
+      <l pos="n">onitopayiw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -34822,7 +34822,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">onôtinikêwiýiniw</l>
+      <l pos="n">onôtinikêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -35254,7 +35254,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">opwêýakatâmêw</l>
+      <l pos="n">opwêyakatâmêw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -35266,7 +35266,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">opwêýakatowêw</l>
+      <l pos="n">opwêyakatowêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -35578,7 +35578,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">osâwi-piýêsîs</l>
+      <l pos="n">osâwi-piyêsîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -35698,7 +35698,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">osikiýâs</l>
+      <l pos="n">osikiyâs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -35710,7 +35710,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">osikiýâwis</l>
+      <l pos="n">osikiyâwis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -35890,7 +35890,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">osk-âýisiýiniw</l>
+      <l pos="n">osk-âyisiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -35914,7 +35914,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">osk-îýinîs</l>
+      <l pos="n">osk-îyinîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -36214,7 +36214,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oski-aýisiýiniw</l>
+      <l pos="n">oski-ayisiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -36238,7 +36238,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oski-iýinîs</l>
+      <l pos="n">oski-iyinîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -36298,7 +36298,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oski-wiýasiwêwin</l>
+      <l pos="n">oski-wiyasiwêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -36598,7 +36598,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ostêsimâwoýasiwêwin</l>
+      <l pos="n">ostêsimâwoyasiwêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -36754,7 +36754,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">otapâhtêýimow</l>
+      <l pos="n">otapâhtêyimow</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -37211,7 +37211,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">otipêýihcikêw</l>
+      <l pos="n">otipêyihcikêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -37223,7 +37223,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">otipêýimisow</l>
+      <l pos="n">otipêyimisow</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -37427,7 +37427,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">owiýasiwêw</l>
+      <l pos="n">owiyasiwêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -37439,7 +37439,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">owiýasiwêw-apiwin</l>
+      <l pos="n">owiyasiwêw-apiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -37451,7 +37451,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">owiýasiwêwikimâw</l>
+      <l pos="n">owiyasiwêwikimâw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -37487,7 +37487,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýahâkan</l>
+      <l pos="n">oyahâkan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -37499,7 +37499,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýahisow</l>
+      <l pos="n">oyahisow</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -37511,7 +37511,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýahisowikamik</l>
+      <l pos="n">oyahisowikamik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -37523,7 +37523,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýakêsk</l>
+      <l pos="n">oyakêsk</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -37535,7 +37535,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýaman</l>
+      <l pos="n">oyaman</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -37547,7 +37547,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýamanask</l>
+      <l pos="n">oyamanask</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -37559,7 +37559,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýasiwêwin</l>
+      <l pos="n">oyasiwêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -37571,7 +37571,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýasiwêwiýiniw</l>
+      <l pos="n">oyasiwêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -37583,7 +37583,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýâkan</l>
+      <l pos="n">oyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -37595,7 +37595,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýâkanikamik</l>
+      <l pos="n">oyâkanikamik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -37607,7 +37607,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýâkanis</l>
+      <l pos="n">oyâkanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -37619,7 +37619,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">oýâpiskâtahikan</l>
+      <l pos="n">oyâpiskâtahikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -38099,7 +38099,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pakitinikêwiýâkan</l>
+      <l pos="n">pakitinikêwiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -38123,7 +38123,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pakosêýimowin</l>
+      <l pos="n">pakosêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -38447,7 +38447,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">papaýêkitôn</l>
+      <l pos="n">papayêkitôn</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -38759,7 +38759,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">paskohkopâwiýiniwak</l>
+      <l pos="n">paskohkopâwiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -38951,7 +38951,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">paskwâwiýiniw</l>
+      <l pos="n">paskwâwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -38963,7 +38963,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">paskwâwiýinînâhk</l>
+      <l pos="n">paskwâwiyinînâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -39107,7 +39107,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">paýipêýikom</l>
+      <l pos="n">payipêyikom</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -39119,7 +39119,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">paýipisikan</l>
+      <l pos="n">payipisikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -39131,7 +39131,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">paýipwât</l>
+      <l pos="n">payipwât</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -39227,7 +39227,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pâhkw-âyamihêwiýiniw</l>
+      <l pos="n">pâhkw-âyamihêwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -39263,7 +39263,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pâhkwaýîk</l>
+      <l pos="n">pâhkwayîk</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -39443,7 +39443,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pâkipaýiwin</l>
+      <l pos="n">pâkipayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -39671,12 +39671,12 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pâwistikowiýiniw</l>
+      <l pos="n">pâwistikowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="n">Atsina, Gros Ventre; [plural:] pâwistikowiýiniwak People of the Rapids</t>
+       <t pos="n">Atsina, Gros Ventre; [plural:] pâwistikowiyiniwak People of the Rapids</t>
    </tg>
    </mg>
 </e>
@@ -39959,7 +39959,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pêyâhtakêýimowin</l>
+      <l pos="n">pêyâhtakêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -40067,7 +40067,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pihêwaýasit</l>
+      <l pos="n">pihêwayasit</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -40223,7 +40223,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pihýêw</l>
+      <l pos="n">pihyêw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -40847,7 +40847,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pinahkwaýipicikan</l>
+      <l pos="n">pinahkwayipicikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -41183,7 +41183,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pisiskêýihtamowin</l>
+      <l pos="n">pisiskêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -41423,7 +41423,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pitikwaýasit</l>
+      <l pos="n">pitikwayasit</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -41435,7 +41435,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">piýêsiw</l>
+      <l pos="n">piyêsiw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -41447,7 +41447,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">piýêsiw kâ-otêskanit</l>
+      <l pos="n">piyêsiw kâ-otêskanit</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -41459,7 +41459,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">piýêsiwa kâ-oyôhtâwît</l>
+      <l pos="n">piyêsiwa kâ-oyôhtâwît</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -41471,7 +41471,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">piýêsiwacistwan</l>
+      <l pos="n">piyêsiwacistwan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -41483,7 +41483,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">piýêsîs</l>
+      <l pos="n">piyêsîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -41495,7 +41495,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">piýêsîsikamik</l>
+      <l pos="n">piyêsîsikamik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -41507,7 +41507,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">piýêsîsis</l>
+      <l pos="n">piyêsîsis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -41881,7 +41881,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pîhtokahânapiwiýin</l>
+      <l pos="n">pîhtokahânapiwiyin</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -41954,7 +41954,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pîkanowiýiniw</l>
+      <l pos="n">pîkanowiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -41966,7 +41966,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pîkanowiýinînâhk</l>
+      <l pos="n">pîkanowiyinînâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -42062,7 +42062,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pîkwêýihtamowin</l>
+      <l pos="n">pîkwêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -42614,7 +42614,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pîtosiýiniw</l>
+      <l pos="n">pîtosiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -42746,7 +42746,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pîwâpiskoýâkan</l>
+      <l pos="n">pîwâpiskoyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -42758,7 +42758,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pîwâpiskoýâkanis</l>
+      <l pos="n">pîwâpiskoyâkanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -42962,7 +42962,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">posâkanacîwiýiniwak</l>
+      <l pos="n">posâkanacîwiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -42986,7 +42986,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pônêýihtamowin</l>
+      <l pos="n">pônêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -43010,7 +43010,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">pôni-ýêhêwin</l>
+      <l pos="n">pôni-yêhêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -43454,7 +43454,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sakâwiýiniw</l>
+      <l pos="n">sakâwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -43634,7 +43634,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sawânakêýihtamowin</l>
+      <l pos="n">sawânakêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -43646,7 +43646,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sawânakêýimowin</l>
+      <l pos="n">sawânakêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -43670,7 +43670,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sawêýihcikêwin</l>
+      <l pos="n">sawêyihcikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -43682,7 +43682,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sawêýihtâkosiwin</l>
+      <l pos="n">sawêyihtâkosiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -43694,7 +43694,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sawêýihtowin</l>
+      <l pos="n">sawêyihtowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -43862,7 +43862,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sâkitawâwiýiniw</l>
+      <l pos="n">sâkitawâwiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -44006,7 +44006,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sâkwêýimowin</l>
+      <l pos="n">sâkwêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -44150,7 +44150,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sâpwâstêwiýâkan</l>
+      <l pos="n">sâpwâstêwiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -44270,7 +44270,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sêhkê-pimipaýîs</l>
+      <l pos="n">sêhkê-pimipayîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -44282,7 +44282,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sêhkêpaýîs</l>
+      <l pos="n">sêhkêpayîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -44438,7 +44438,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sêsêwiýâkan</l>
+      <l pos="n">sêsêwiyâkan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -44486,7 +44486,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sêwêýâkan</l>
+      <l pos="n">sêwêyâkan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -45315,7 +45315,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sîpêýihtamowin</l>
+      <l pos="n">sîpêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -45507,7 +45507,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sîpîwiýiniwak</l>
+      <l pos="n">sîpîwiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -45977,7 +45977,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sôhkêýimisowin</l>
+      <l pos="n">sôhkêyimisowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -45989,7 +45989,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sôhkêýimowin</l>
+      <l pos="n">sôhkêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -46061,7 +46061,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sôkâwiýâkanis</l>
+      <l pos="n">sôkâwiyâkanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -46361,7 +46361,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">sôskopaýîs</l>
+      <l pos="n">sôskopayîs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -46758,7 +46758,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">takahkêýimowin</l>
+      <l pos="n">takahkêyimowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -46770,7 +46770,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">takopaýiwin</l>
+      <l pos="n">takopayiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -46890,7 +46890,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">tapahtêýimisowin</l>
+      <l pos="n">tapahtêyimisowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -47082,7 +47082,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">tâpasinahikêpaýihcikan</l>
+      <l pos="n">tâpasinahikêpayihcikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -47538,7 +47538,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">têpêýihtamowin</l>
+      <l pos="n">têpêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -47730,7 +47730,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">tihtipipaýîs</l>
+      <l pos="n">tihtipipayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -47910,7 +47910,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">tipêýihcikêwin</l>
+      <l pos="n">tipêyihcikêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -47922,7 +47922,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">tipêýihtamowin</l>
+      <l pos="n">tipêyihtamowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -47934,7 +47934,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">tipêýimikosiwin</l>
+      <l pos="n">tipêyimikosiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -47946,7 +47946,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">tipêýimisowin</l>
+      <l pos="n">tipêyimisowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -48522,7 +48522,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wahýakay</l>
+      <l pos="n">wahyakay</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -48858,7 +48858,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">waskwaýâkan</l>
+      <l pos="n">waskwayâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -48966,7 +48966,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">watapîwiýâkan</l>
+      <l pos="n">watapîwiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -49086,7 +49086,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">waýakay</l>
+      <l pos="n">wayakay</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -49110,7 +49110,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">waýawîstamâsowikamik</l>
+      <l pos="n">wayawîstamâsowikamik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -49122,7 +49122,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">waýawîwin</l>
+      <l pos="n">wayawîwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -49326,7 +49326,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâkâýow</l>
+      <l pos="n">wâkâyow</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -49338,7 +49338,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâkâýôs</l>
+      <l pos="n">wâkâyôs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -49350,7 +49350,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâkâýôsi-wâti</l>
+      <l pos="n">wâkâyôsi-wâti</l>
       <lc>NI-4</lc>
    </lg>
    <mg>
@@ -49362,7 +49362,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâkâýôsiwayân</l>
+      <l pos="n">wâkâyôsiwayân</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -49819,7 +49819,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâpaýôminak</l>
+      <l pos="n">wâpayôminak</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -50323,7 +50323,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâpiskiýâkan</l>
+      <l pos="n">wâpiskiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -50551,7 +50551,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâsaskocêpaýîs</l>
+      <l pos="n">wâsaskocêpayîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -50815,7 +50815,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâskahikaniwiýiniwak</l>
+      <l pos="n">wâskahikaniwiyiniwak</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -51211,7 +51211,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâýahcâw</l>
+      <l pos="n">wâyahcâw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -51223,7 +51223,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâýicihcêw</l>
+      <l pos="n">wâyicihcêw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -51235,7 +51235,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâýinopêhikan</l>
+      <l pos="n">wâyinopêhikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51247,7 +51247,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâýipêhipân</l>
+      <l pos="n">wâyipêhipân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51259,7 +51259,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâýisitân</l>
+      <l pos="n">wâyisitân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51271,7 +51271,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wâýisitêhikan</l>
+      <l pos="n">wâyisitêhikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51391,7 +51391,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wêpâýôs</l>
+      <l pos="n">wêpâyôs</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -51547,7 +51547,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wêýôtisiwin</l>
+      <l pos="n">wêyôtisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51619,7 +51619,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýasiwêhkân</l>
+      <l pos="n">wiyasiwêhkân</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -51631,7 +51631,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýasiwêwikamik</l>
+      <l pos="n">wiyasiwêwikamik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -51643,7 +51643,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýasiwêwin</l>
+      <l pos="n">wiyasiwêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51679,7 +51679,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýâkan</l>
+      <l pos="n">wiyâkan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51691,7 +51691,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýâkanikamik</l>
+      <l pos="n">wiyâkanikamik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -51703,7 +51703,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýâkanis</l>
+      <l pos="n">wiyâkanis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -51775,7 +51775,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiyâsiýiniw</l>
+      <l pos="n">wiyâsiyiniw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -51787,7 +51787,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýihkosa</l>
+      <l pos="n">wiyihkosa</l>
       <lc>NDA-1</lc>
    </lg>
    <mg>
@@ -51799,7 +51799,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýihkwak</l>
+      <l pos="n">wiyihkwak</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -51811,7 +51811,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýin</l>
+      <l pos="n">wiyin</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -51823,7 +51823,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wiýinwâpisk</l>
+      <l pos="n">wiyinwâpisk</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -52003,7 +52003,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wîhkasko-kisêýin</l>
+      <l pos="n">wîhkasko-kisêyin</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -52291,7 +52291,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">wîhýowin</l>
+      <l pos="n">wîhyowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -52965,7 +52965,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýahkâstimon</l>
+      <l pos="n">yahkâstimon</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -52977,7 +52977,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýahkâstimonâhtik</l>
+      <l pos="n">yahkâstimonâhtik</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -52989,7 +52989,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýahkâstimonêkin</l>
+      <l pos="n">yahkâstimonêkin</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -53001,7 +53001,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýahkîmowin</l>
+      <l pos="n">yahkîmowin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53013,7 +53013,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýâhkasiniy</l>
+      <l pos="n">yâhkasiniy</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -53025,7 +53025,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýâhkasinîwâpisk</l>
+      <l pos="n">yâhkasinîwâpisk</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -53085,7 +53085,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýâwâtakan</l>
+      <l pos="n">yâwâtakan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53097,7 +53097,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýâwêw</l>
+      <l pos="n">yâwêw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -53109,7 +53109,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýêhýêhpamânis</l>
+      <l pos="n">yêhyêhpamânis</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53121,7 +53121,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýêhýêhpamon</l>
+      <l pos="n">yêhyêhpamon</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53133,7 +53133,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýêhýêwin</l>
+      <l pos="n">yêhyêwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53145,7 +53145,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýêkaw</l>
+      <l pos="n">yêkaw</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -53157,7 +53157,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýêkawaciy</l>
+      <l pos="n">yêkawaciy</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -53169,7 +53169,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýêkawiskâwikamâhk</l>
+      <l pos="n">yêkawiskâwikamâhk</l>
       <lc>INM</lc>
    </lg>
    <mg>
@@ -53181,7 +53181,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýiýihkopîwi-pîsim</l>
+      <l pos="n">yiyihkopîwi-pîsim</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -53193,7 +53193,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýiýîkastis</l>
+      <l pos="n">yiyîkastis</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -53205,7 +53205,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýiýîkicihcân</l>
+      <l pos="n">yiyîkicihcân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53217,7 +53217,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýiýîkicihcîs</l>
+      <l pos="n">yiyîkicihcîs</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53229,7 +53229,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýiýîkisitân</l>
+      <l pos="n">yiyîkisitân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53241,7 +53241,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkicihcân</l>
+      <l pos="n">yîkicihcân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53253,7 +53253,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkicikâw</l>
+      <l pos="n">yîkicikâw</l>
       <lc>NA-2</lc>
    </lg>
    <mg>
@@ -53265,7 +53265,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkihcanakwêwisip</l>
+      <l pos="n">yîkihcanakwêwisip</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -53277,7 +53277,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkihtawamow</l>
+      <l pos="n">yîkihtawamow</l>
       <lc>NI-2</lc>
    </lg>
    <mg>
@@ -53289,7 +53289,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkihtawipêhikan</l>
+      <l pos="n">yîkihtawipêhikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53301,7 +53301,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkihtawitâpânâsk</l>
+      <l pos="n">yîkihtawitâpânâsk</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -53313,7 +53313,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkinikan</l>
+      <l pos="n">yîkinikan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -53325,7 +53325,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkisitân</l>
+      <l pos="n">yîkisitân</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53337,7 +53337,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîkopîwi-pîsim</l>
+      <l pos="n">yîkopîwi-pîsim</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -53349,7 +53349,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîpêyâmatin</l>
+      <l pos="n">yîpêyâmatin</l>
       <lc>NI-?</lc>
    </lg>
    <mg>
@@ -53361,7 +53361,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîwahikan</l>
+      <l pos="n">yîwahikan</l>
       <lc>NA-1</lc>
    </lg>
    <mg>
@@ -53373,7 +53373,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýîwahikanâpisk</l>
+      <l pos="n">yîwahikanâpisk</l>
       <lc>NI-3</lc>
    </lg>
    <mg>
@@ -53385,7 +53385,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýôhtênikan</l>
+      <l pos="n">yôhtênikan</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
@@ -53397,7 +53397,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýôskihtak</l>
+      <l pos="n">yôskihtak</l>
       <lc>NA-3</lc>
    </lg>
    <mg>
@@ -53409,7 +53409,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Wolvengrey">
    <lg>
-      <l pos="n">ýôspisiwin</l>
+      <l pos="n">yôspisiwin</l>
       <lc>NI-1</lc>
    </lg>
    <mg>
