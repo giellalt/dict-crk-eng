@@ -35,7 +35,6 @@ tr '>' ':'           | \
 tr ' ' '_'           | \
 sed 's/$/ # ;/g;'    >> bin/crkeng.lexc        
 
-#xfst -e "read lexc < bin/crkeng.lexc"
 
 printf "read lexc < bin/crkeng.lexc \n\
 invert net \n\
