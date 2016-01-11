@@ -5643,7 +5643,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Monday; literally: work-day</t>
+       <t pos="v">it is Monday; literally = work-day</t>
    </tg>
    </mg>
 </e>
@@ -6340,7 +6340,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Sunday; literally: prayer-day</t>
+       <t pos="v">it is Sunday; literally = prayer-day</t>
    </tg>
    </mg>
 </e>
@@ -10061,7 +10061,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is noon (12:00 p.m.)</t>
+       <t pos="v">it is noon (12.00 p.m.)</t>
    </tg>
    </mg>
 </e>
@@ -10109,7 +10109,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is midnight (12:00 a.m.)</t>
+       <t pos="v">it is midnight (12.00 a.m.)</t>
    </tg>
    </mg>
 </e>
@@ -10133,7 +10133,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Wednesday; literally: (it is) middle day</t>
+       <t pos="v">it is Wednesday; literally = (it is) middle day</t>
    </tg>
    </mg>
 </e>
@@ -20472,7 +20472,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he dances the thank you dance, s/he dances the joy dance [traditional dance following a give-away; archaic: s/he dances the scalp dance]</t>
+       <t pos="v">s/he dances the thank you dance, s/he dances the joy dance [traditional dance following a give-away; archaics/he dances the scalp dance]</t>
    </tg>
    </mg>
 </e>
@@ -20484,7 +20484,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he dances the thank you dance, s/he dances the joy dance [traditional dance following a give-away; archaic: s/he dances the scalp dance]</t>
+       <t pos="v">s/he dances the thank you dance, s/he dances the joy dance [traditional dance following a give-away; archaics/he dances the scalp dance]</t>
    </tg>
    </mg>
 </e>
@@ -24325,7 +24325,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he wipes (it/him) off for s.o.; [Christian:] s/he forgives s.o.</t>
+       <t pos="v">s/he wipes (it/him) off for s.o.; [Christian] s/he forgives s.o.</t>
    </tg>
    </mg>
 </e>
@@ -24337,7 +24337,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he wipes (it/him) off for him/herself; [Christian:] s/he has his/her sins forgiven, s/he obtains forgiveness</t>
+       <t pos="v">s/he wipes (it/him) off for him/herself; [Christian] s/he has his/her sins forgiven, s/he obtains forgiveness</t>
    </tg>
    </mg>
 </e>
@@ -24349,7 +24349,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">they wipe (it/him) off for one another; [Christian:] they forgive one another</t>
+       <t pos="v">they wipe (it/him) off for one another; [Christian] they forgive one another</t>
    </tg>
    </mg>
 </e>
@@ -45495,7 +45495,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Friday; literally: (it is) ration-day</t>
+       <t pos="v">it is Friday; literally = (it is) ration-day</t>
    </tg>
    </mg>
 </e>
@@ -45507,7 +45507,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Saturday; literally: (it is) ration-day</t>
+       <t pos="v">it is Saturday; literally = (it is) ration-day</t>
    </tg>
    </mg>
 </e>
@@ -45531,7 +45531,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Saturday; literally: (it is) ration-day</t>
+       <t pos="v">it is Saturday; literally = (it is) ration-day</t>
    </tg>
    </mg>
 </e>
@@ -48411,7 +48411,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he is purple; literally: s/he is red-blue</t>
+       <t pos="v">s/he is purple; literally = s/he is red-blue</t>
    </tg>
    </mg>
 </e>
@@ -48423,7 +48423,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is purple; literally: it is red-blue</t>
+       <t pos="v">it is purple; literally = it is red-blue</t>
    </tg>
    </mg>
 </e>
@@ -49768,7 +49768,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">there is thunder; literally: they call loudly in reference to piyêsiwak Thunderbirds</t>
+       <t pos="v">there is thunder; literally = they call loudly in reference to piyêsiwak Thunderbirds</t>
    </tg>
    </mg>
 </e>
@@ -52252,7 +52252,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is early spring, it is springtime, it is ice break-up; literally: it is good ground</t>
+       <t pos="v">it is early spring, it is springtime, it is ice break-up; literally = it is good ground</t>
    </tg>
    </mg>
 </e>
@@ -57100,7 +57100,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he has palsy; literally: s/he has the trembling sickness</t>
+       <t pos="v">s/he has palsy; literally = s/he has the trembling sickness</t>
    </tg>
    </mg>
 </e>
@@ -62404,7 +62404,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Thursday; literally: (it is) the fourth day</t>
+       <t pos="v">it is Thursday; literally = (it is) the fourth day</t>
    </tg>
    </mg>
 </e>
@@ -63149,7 +63149,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Saturday; literally: (it is) the sixth day</t>
+       <t pos="v">it is Saturday; literally = (it is) the sixth day</t>
    </tg>
    </mg>
 </e>
@@ -63246,7 +63246,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    <mg>
    <tg xml:lang="eng">
        <t pos="v">s/he moves camp to the open country</t>
-       <t pos="v">wC: s/he moves camp away from shore</t>
+       <t pos="v">wCs/he moves camp away from shore</t>
    </tg>
    </mg>
 </e>
@@ -63259,7 +63259,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    <mg>
    <tg xml:lang="eng">
        <t pos="v">s/he goes to the open country</t>
-       <t pos="v">wC: s/he heads away from shore</t>
+       <t pos="v">wCs/he heads away from shore</t>
    </tg>
    </mg>
 </e>
@@ -64543,7 +64543,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Wednesday; literally: (it is) the third day</t>
+       <t pos="v">it is Wednesday; literally = (it is) the third day</t>
    </tg>
    </mg>
 </e>
@@ -64975,7 +64975,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he goes to school, s/he attends school; literally: s/he goes to read</t>
+       <t pos="v">s/he goes to school, s/he attends school; literally = s/he goes to read</t>
    </tg>
    </mg>
 </e>
@@ -65192,7 +65192,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    <mg>
    <tg xml:lang="eng">
        <t pos="v">s/he seeks (it/him) for s.o.</t>
-       <t pos="v">[slang:] s/he feels s.o.'s genitals</t>
+       <t pos="v">[slang] s/he feels s.o.'s genitals</t>
    </tg>
    </mg>
 </e>
@@ -65444,7 +65444,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Friday; literally: (it is )the fifth day</t>
+       <t pos="v">it is Friday; literally = (it is )the fifth day</t>
    </tg>
    </mg>
 </e>
@@ -67112,7 +67112,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Tuesday; literally: (it is) the second day</t>
+       <t pos="v">it is Tuesday; literally = (it is) the second day</t>
    </tg>
    </mg>
 </e>
@@ -67124,7 +67124,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Tuesday night; literally: (it is) the second night</t>
+       <t pos="v">it is Tuesday night; literally = (it is) the second night</t>
    </tg>
    </mg>
 </e>
@@ -68168,7 +68168,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">she gives birth; literally: she causes her child to appear</t>
+       <t pos="v">she gives birth; literally = she causes her child to appear</t>
    </tg>
    </mg>
 </e>
@@ -68840,7 +68840,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is New Year's Day; literally: it is kissing-day</t>
+       <t pos="v">it is New Year's Day; literally = it is kissing-day</t>
    </tg>
    </mg>
 </e>
@@ -70173,7 +70173,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    <mg>
    <tg xml:lang="eng">
        <t pos="v">s/he goes upward; s/he ascends</t>
-       <t pos="v">[Christian:] s/he ascends to heaven (i.e. Jesus)</t>
+       <t pos="v">[Christian] s/he ascends to heaven (i.e. Jesus)</t>
    </tg>
    </mg>
 </e>
@@ -76426,7 +76426,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Friday; literally: (it is) flour-day</t>
+       <t pos="v">it is Friday; literally = (it is) flour-day</t>
    </tg>
    </mg>
 </e>
@@ -84815,7 +84815,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Monday; literally: (it is) the first day</t>
+       <t pos="v">it is Monday; literally = (it is) the first day</t>
    </tg>
    </mg>
 </e>
@@ -92858,7 +92858,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is Monday; literally: (it is) the day after prayer day</t>
+       <t pos="v">it is Monday; literally = (it is) the day after prayer day</t>
    </tg>
    </mg>
 </e>
@@ -111159,7 +111159,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is rather dark: it is almost nighttime</t>
+       <t pos="v">it is rather darkit is almost nighttime</t>
    </tg>
    </mg>
 </e>
@@ -119448,7 +119448,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">s/he is malnourished; literally: s/he is going to die of hunger</t>
+       <t pos="v">s/he is malnourished; literally = s/he is going to die of hunger</t>
    </tg>
    </mg>
 </e>
@@ -122113,7 +122113,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">it is brown in appearance; literally: it looks like smoked leather</t>
+       <t pos="v">it is brown in appearance; literally = it looks like smoked leather</t>
    </tg>
    </mg>
 </e>

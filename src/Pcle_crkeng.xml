@@ -1093,7 +1093,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">United States; literally: beyond the border</t>
+       <t pos="pcle">United States; literally = beyond the border</t>
    </tg>
    </mg>
 </e>
@@ -1765,7 +1765,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">too much goodness gracious; literally: too much exists; it's too much</t>
+       <t pos="pcle">too much goodness gracious; literally = too much exists; it's too much</t>
    </tg>
    </mg>
 </e>
@@ -2270,7 +2270,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">south; literally: at mid-day; towards mid-day</t>
+       <t pos="pcle">south; literally = at mid-day; towards mid-day</t>
    </tg>
    </mg>
 </e>
@@ -2282,7 +2282,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">south; literally: toward noon; towards mid-day</t>
+       <t pos="pcle">south; literally = toward noon; towards mid-day</t>
    </tg>
    </mg>
 </e>
@@ -2294,7 +2294,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">at noon, when it's noon (12:00 p.m.)</t>
+       <t pos="pcle">at noon, when it's noon (12.00 p.m.)</t>
    </tg>
    </mg>
 </e>
@@ -2402,7 +2402,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">see: asê-</t>
+       <t pos="pcle">seeasê-</t>
    </tg>
    </mg>
 </e>
@@ -3098,7 +3098,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">[grammatical preverb: complementizer; defines a changed conjunct clause]</t>
+       <t pos="pcle">[grammatical preverbcomplementizer; defines a changed conjunct clause]</t>
    </tg>
    </mg>
 </e>
@@ -3806,7 +3806,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">hey [discourse particle: introductory; exclamatory]</t>
+       <t pos="pcle">hey [discourse particleintroductory; exclamatory]</t>
    </tg>
    </mg>
 </e>
@@ -4599,7 +4599,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">grammatical preverb: future will, shall; infinitive; optative ought, should</t>
+       <t pos="pcle">grammatical preverbfuture will, shall; infinitive; optative ought, should</t>
    </tg>
    </mg>
 </e>
@@ -5343,7 +5343,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">grammatical preverb; future, conditional: shall; defines a changed conjunct clause</t>
+       <t pos="pcle">grammatical preverb; future, conditionalshall; defines a changed conjunct clause</t>
    </tg>
    </mg>
 </e>
@@ -6316,7 +6316,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">[grammatical preverb]; future: will, shall; infinitive; optative: ought, should</t>
+       <t pos="pcle">[grammatical preverb]; futurewill, shall; infinitive; optativeought, should</t>
    </tg>
    </mg>
 </e>
@@ -6592,7 +6592,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">good-bye, see you again; literally: I will see you again</t>
+       <t pos="pcle">good-bye, see you again; literally = I will see you again</t>
    </tg>
    </mg>
 </e>
@@ -8380,7 +8380,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">one million, 1,000,000; literally: an extreme-great-hundred; an extreme thousand</t>
+       <t pos="pcle">one million, 1,000,000; literally = an extreme-great-hundred; an extreme thousand</t>
    </tg>
    </mg>
 </e>
@@ -14720,7 +14720,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">east, in the east; literally: towards the sunrise</t>
+       <t pos="pcle">east, in the east; literally = towards the sunrise</t>
    </tg>
    </mg>
 </e>
@@ -15272,7 +15272,7 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="pcle">[grammatical preverb: future; infinitive]</t>
+       <t pos="pcle">[grammatical preverbfuture; infinitive]</t>
    </tg>
    </mg>
 </e>
